@@ -1,0 +1,124 @@
+/*
+@font-face { font-family: 'Centaur';
+             src: url('font/Centaur/Centaur.ttf') format('truetype'); }
+*/
+
+
+@font-face { 
+
+font-family: 'ACaslonPro';
+src:	/*url('font/ACasIon/ACaslonPro-Regular.eot'); /* IE9 Compat Modes */
+		/*url('font/ACasIon/ACaslonPro-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+		/*url('font/ACasIon/ACaslonPro-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+		url('font/ACasIon/ACaslonPro-Regular.ttf') format('truetype'); 
+		
+ 
+ }
+ 
+ body {
+	position: fixed; 
+	overflow-y: scroll;
+	width: 100%;
+ }
+ 
+
+* {
+ /*font-family: ACaslonPro;*/
+ font-family: ACaslonPro;
+ font-size: 17px;
+ color: black;
+ font-weight: normal;
+ line-height: 1.0;
+
+}
+
+#msg-box {
+	position: fixed;
+	left: 50%;
+	bottom: -1%;
+	transform: translate(-50%, -50%);
+	margin: 0 auto;
+	text-align: center;
+	font-size: 110%;
+}
+ 
+
+@font-face {
+    font-family: NotoSansTC;
+    src: url(font/_test/NotoSansTC-Regular.otf);
+    font-weight: normal;
+
+}
+@font-face {
+    font-family: Roboto;
+    src: url(font/_test/Roboto-Regular.ttf);
+    font-weight: normal;
+
+}
+@font-face {
+    font-family: Unlock;
+    src: url(font/_test/Unlock-Regular.ttf);
+    font-weight: normal;
+
+}
+
+ div.a {
+    font-family: NotoSansTC;
+	color: blue;
+		 line-height: 0.6;
+}
+
+div.b {
+    font-family: Roboto;
+	color: red;
+		 line-height: 80%;
+}
+
+div.c {
+   font-family: Unlock;
+   color: green;
+   	 line-height: 200%;
+}
+
+div.d {
+   font-family: ACaslonPro;
+   color: yellow;
+   	 line-height: 300%;
+   
+}
+
+
+
+
+
+	
+body {
+
+	/*Hintergrundfarbe*/
+	background-color: #f2eee5;	
+	
+}
+
+.bg { 
+    /* The image used */
+    /*background-image: url("pic/USB-Weihnachtskarte_2018_v0.6_675.jpg");*/
+	
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+
+}
+
+.center {
+    display: block;
+	margin-top: 1%;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: auto;
+	
+}
