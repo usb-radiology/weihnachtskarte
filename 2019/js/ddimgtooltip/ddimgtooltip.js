@@ -13,117 +13,166 @@ var ddimgtooltip={
 		//For desc parameter, backslash any special characters inside your text such as apotrophes ('). Example: "I\'m the king of the world"
 		//For CSS object, follow the syntax: {property1:"cssvalue1", property2:"cssvalue2", etc}
 
-        tooltips[1]=["pic/Kugel/FFFFFF-0.0.png",
-		"Ein neues Radiopharmazeutikum (177-Lu-PPFF11N)<br>konnte dank erfolgreicher Kooperation mit dem<br>Paul Scherrer Institut an ein Pharmaunternehmen<br>lizenziert werden.<br>Damit ist es für mehr Patientinnen und Patienten<br>mit medullärem Schilddrüsenkarzinom zugänglich."
+        tooltips[1]=["pic/01 Wir freuen.jpg",
+		"Wir freuen uns über den SIWF AWARD, der uns vom<br>Schweizerischen Institut für ärztliche\
+		Weiter- und<br>Fortbildung (SIWF) verliehen wurde.<br>Erst sechs von schweizweit über 1‘000\
+		Weiterbildungs-<br>teams erhielten bisher die Auszeichnung, die für<br>besonderes Engagement\
+		und Kompetenz in der ärztlichen<br>Weiterbildung vergeben wird."
 		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
 		
-        tooltips[2]=["pic/Kugel/02_Certificate Eurosafe USB_2018e.jpg",
-		"Die Europäische Gesellschaft für Radiologie hat<br>die Anwendung des Strahlenschutzes an unserer Klinik<br>evaluiert und erneut mit der Höchstnote bewertet.<br>Die Auszeichnung anerkennt den hohen Standard,<br>den der Strahlenschutz bei uns hat."
-		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
-
-        tooltips[3]=["pic/Kugel/03_Beitrag 1 RadChem WK2018e.jpg",
-		"Unser neues radiopharmazeutisches GMP-Labor<br>(Good Manufacturing Practice) hat die Betriebs-<br>bewilligung der Swissmedic erhalten, dies nach erfolg-<br>reicher Inspektion durch das BAG und das regionale<br>Heilmittelinspektorat.<br>Damit können wir komplexe EU-GMP-pflichtige<br>Radiopharmazeutika und klinische Prüfpräparate<br>für die Bildgebung und die Therapie unserer Patienten<br>direkt vor Ort herstellen – z. B. 68-Ga-DOTATOC<br>und 177-Lu-DOTATOC."
-		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
-		
-        tooltips[4]=["pic/Kugel/04_KVP Preisverleihunge.jpg",
-		"Verbesserung beginnt mit guten Ideen.<br>Diese hatten Dr. Noemi Schmidt und Nadja Zumbrunn,<br>Assistenzärztin bzw. Radiologiefachfrau. Sie optimierten<br>die Kommunikation mit der Notfallstation – ermög-<br>lichten so die schnellere Befundung und Behandlung<br>von akut eingestuften Notfallpatienten sowie die frühere<br>Entlassung weniger dringlicher Fälle.<br>Die beiden erhielten den KVP-Preis (1. Platz) des USB."
-		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
-		
-        tooltips[5]=["pic/Kugel/05_Prüfungspreise.jpg",
-		"Zweimal summa, einmal magna für unsere Fachärzte:<br>3 von 8 Prüfungspreisen vergab die SGR, die Schweize- <br>rische Gesellschaft für Radiologie, 2018 an Assistenz- <br>ärzte des USB.<br>Für seine Leistungen an der 1. Teilprüfung 2018 hat<br>Dr. Ricardo Donners ein summa cum laude, erhalten.<br>Derselbe Preis ging an Dr. Pascal Klinger-Gratz für sein<br> Ergebnis der 2. Teilprüfung 2017. An dieser hat auch<br>Dr. Theo Demerath glänzend abgeschnitten und wurde<br>mit einem magna cum laude geehrt."
-		,{background:"#f0e4cc", color:"white", opacity: 0.855}]		
-		
-        tooltips[6]=["pic/Kugel/06_Press release NUKe.jpg",
-		"Der Bericht des Journal of Nuclear Medicine<br>über unsere Publikation einer neuen Bildgebung zur<br>verbesserten Darstellung neuroendokriner Tumoren<br>hat reges Medieninteresse geweckt, z. B. bei Science<br>Daily, R&D Magazine, News-Medical.net, Medical<br>Xpress, DOTmed, Aunt Minnie, Facebook und Twitter."
-		,{background:"#f0e4cc", color:"white", opacity: 0.855}]		
-		
-        tooltips[7]=["pic/Kugel/07_Gehweiler Preis2e.jpg",
-		"Unser Assistenzarzt Dr. Julian Gehweiler erhielt am<br>Kongress der Radiological Society of North America<br>(RSNA) den mit 3000 Dollar dotierten Preis für das<br>beste neuroradiologische Abstract.<br>Er untersuchte Gadoliniumakkumulationen anhand von<br>knapp 12‘000 Schädel-MRTs und stellte fest, dass die<br>Ablagerungen verbreiteter zu sein scheinen als ange-<br>nommen. Beide klinisch eingesetzten gadoliniumhaltigen<br>Kontrastmittel scheinen zu Akkumulationen zu führen,<br>indes an unterschiedlichen Lokalisationen des Gehirns.<br>Der vom radiologischen Fachforum AuntMinnie zum<br>Abstract verfasste Bericht gewann den Preis für den<br>am häufigsten gelesenen Artikel zur MRI-Bericht-<br>erstattung am Kongress, den Roadie Award."
-		,{background:"#f0e4cc", color:"white", opacity: 0.855}]		
-		
-        tooltips[8]=["pic/Kugel/08_Caobelli_Federicoe.jpg",
-		"Dr. Federico Caobelli, Oberarzt der Nuklearmedizin,<br>hat am Jahreskongress der Schweizerischen Gesellschaft<br>für Nuklearmedizin (SGNM) den Best oral presentation<br>prize erhalten.<br>Er hatte eine Multizenterstudie präsentiert, die mit zwei<br>italienischen Institutionen durchgeführt wurde, und zeigte,<br>dass der untersuchte Parameter eine wichtige Rolle bei der<br>Bestimmung der Prognose der Patienten in Bezug auf<br>ein erhöhtes kardiovaskuläres Risiko spielt."
-		,{background:"#f0e4cc", color:"white", opacity: 0.855}]		
-
-        tooltips[9]=["pic/Kugel/09_bauman_grzegorze.jpg",
-		"Dr. Grzegorz Bauman erhielt für seine Arbeit zur funktio- <br>nellen Lungenbildgebung den Andres-Giedion-Preis<br>der Schweizerischen Gesellschaft für Radiologie (SGR).<br>Der wissenschaftliche Mitarbeiter der radiologischen<br>Physik hat eine MR-Methode zur Messung der Lungen-<br>funktion bei Kindern mit zystischer Fibrose entwickelt."
+		tooltips[2]=["pic/02 Die schweizweit.jpg",
+		"Die schweizweit ersten leberspezifischen Therapien mit<br>Holmium-166-Mikrospheren wurden\
+		von den Abteilungen<br>für interventionelle Radiologie und für Nuklearmedizin<br>erfolgreich\
+		bei Patientinnen und Patienten mit Lebertumoren<br>durchgeführt."
 		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
 
-        tooltips[10]=["pic/Kugel/FFFFFF-0.0.png",
-		"Am weltweit grössten Radiologiekongress (RSNA in<br>Chicago) konnten wir zahlreiche Beiträge präsentieren,<br>wurden als Erst-/Letztautoren zu 15 Vorträgen sowie zu<br>2 Moderationen und 4 Postern eingeladen.<br>Zudem boten unsere Wissenschaftler 2 Workshops (mit<br>insgesamt 10 Vorträgen) zu künstlicher Intelligenz und<br>maschinellem Lernen an.<br>Gleich 4, z. T. hochrangige, Preise gingen nach Basel<br>und sorgten für Medienecho."
+		tooltips[3]=["pic/03 Dr David Winkel.jpg",
+		"Dr. David Winkel, Assistenzarzt der Radiologie, wurde<br>mit dem Young Investigator Award\
+		der Schweizerischen<br>Gesellschaft für Radiologie ausgezeichnet.<br>Er erhielt den Preis für\
+		seine wissenschaftlichen Arbeiten<br>zur abdominellen Bildgebung und zur Anwendung der<br>\
+		künstlichen Intelligenz in der Radiologie."
+		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
+		
+		tooltips[4]=["pic/04 Das Tumorzentrum.jpg",
+		"Das Tumorzentrum für Neuroendokrine- und Endokrine Tumore<br>wurde dank wesentlichem Beitrag\
+		der Nuklearmedizin von der <br>Europäischen Gesellschaft für Neuroendokrine Tumore erfolgreich<br>\
+		als Center of Excellence auditiert und von der deutschen Krebs-<br>gesellschaft als Schwerpunkt\
+		zertifiziert."
+		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
+		
+		tooltips[5]=["pic/05 Wir haben es.jpg",
+		"Wir haben es aufs März-Cover geschafft!<br>Unsere Forschung zur Verbesserung der Diagnostik\
+		von<br>Prostatakrebs mittels der MRT (unter Kombination von<br>GRASP-Sequenz, Diffusions- und\
+		Perfusionsbildern)<br>wurde in der im Fachgebiet bedeutendsten Zeitschrift<br>«Radiology» publiziert."
 		,{background:"#f0e4cc", color:"white", opacity: 0.855}]		
 		
-        tooltips[11]=["pic/Kugel/11_Winkel_David_2016e.jpg",
-		"Eine Basler Studie konnte die Effektivität der künstlichen<br>Intelligenz zur Priorisierung akuter abdomineller Unter-<br>suchungen zeigen.<br>Der vom Assistenzarzt Dr. David Winkel analysierte<br>Deep-Learning-Algorithmus war in der Lage,<br>akute abdominelle Fälle in Computertomografien<br>mit einer Sensitivität von 93 Prozent sowie einer Spezi-<br>fität von 97 Prozent zu erkennen. Eine klinische An-<br>wendung könnte es ermöglichen, akute abdominelle Fälle<br>künftig sofort, zuverlässig und autonom als dringend<br>zu kennzeichnen."
-		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
-		
-		tooltips[12]=["pic/Kugel/12_3d_kiefere.jpg",
-		"Das Symposium on 3D Printing for Life Sciences 2018<br>stiess auf grosses Interesse: 140 Besucherinnen und<br>Besucher informierten sich über den Stand des 3D- <br>Drucks in den Life Sciences.<br>Technologien zur Realisierung von polymeren, kera-<br>mischen oder metallischen Druckerzeugnissen<br>oder zur Replikation komplexer biologischer Systeme<br>mit lebenden Zellen für die klinische Routine und die<br>Medizinprodukteindustrie waren vorherrschende The-<br>men des mit der Fachhochschule Nordwestschweiz<br>und BaselArea.swiss durchgeführten Symposions."
-		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
-		
-		tooltips[13]=["pic/Kugel/13_Platinum_UniversityHospitalBasele.jpg",
-		"Wir sind stolz darauf, dass unser Weiterbildungs-<br>programm für Assistenzärzte der Radiologie von der<br>Europäischen Gesellschaft für Radiologie mit der<br>besten Bewertung, dem Platinum Level of Excellence,<br>zertifiziert wurde."
-		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
-		
-		tooltips[14]=["pic/Kugel/14_68Ga-exendin-4 PETCT Publikation EJNMMIe.jpg",
-		"Die Resultate unserer prospektiven GLP-1R-«imaging»- <br>Studie konnten im renommierten «European Journal<br>of Nuclear Medicine and Molecular Imaging» publiziert<br>werden."
-		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
-		
-		tooltips[15]=["pic/Kugel/15_Takese.jpg",
-		"Top «10% rated scientific papers» – dazu zählt<br>die Cardiovascular and Interventional Radiological<br>Society of Europe (CIRSE) das Abstract<br>«Percutaneous radiological gastrostomy without naso-<br>gastral insufflation – description of a novel method».<br>Eingereicht hat es Dr. Martin Takes, Kaderarzt und<br>stv. Abteilungsleiter der interventionellen Radiologie."
-		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
-		
-		tooltips[16]=["pic/Kugel/16_Highlight lecture NUK Studiene.jpg",
-		"Drei Forschungsprojekte von Nuklearmedizin und<br>Radiopharmazie wurden an den Highlight Lectures<br>der SNMMI und der EANM (amerikanischer und euro-<br>päischer Kongress der Nuklearmedizin) hervorgehoben<br>und als wichtig beurteilt."
-		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
-		
-		tooltips[17]=["pic/Kugel/17_Kleintierkamerae.jpg",
-		"Dank der Anschaffung der ersten Kleintier-PET-Kamera<br>in der Nordwestschweiz sind wir in der Lage, PET- bzw.<br>PET/CT-Untersuchungen von Kleintieren, z. B. von<br>Mäusen, durchzuführen.<br>Damit kann die Bioverteilung von neuen diagnostischen<br>Radiopharmazeutika im narkotisierten Tier sichtbar ge-<br>macht werden.<br>Dies ist ein wichtiger Beitrag, um weniger Tiere für Tier-<br>versuche einzusetzen."
-		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
-		
-		tooltips[18]=["pic/Kugel/18_Hirschmann_Knie_mit_Lasere.jpg",
-		"Die dosisreduzierte 3D-Computertomografie wurde<br>für periphere Gelenkuntersuchungen mit der Option auf<br>gewichtsbelastete Untersuchungen (im Stehen) etabliert."
-		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
-		
-		tooltips[19]=["pic/Kugel/19_FaniMelpomeni2018e.jpg",
-		"Der Universitätsrat hat Prof. Dr. Melpomeni Fani<br>(Leitung radiopharmazeutische Chemie, Forschung<br>und Lehre) zur klinischen Professorin für radiopharma-<br>zeutische Chemie gewählt.<br>Ihr wissenschaftlicher Fokus gilt der Entwicklung neuer<br>Radiopharmazeutika von hoher Spezifität und klinischer<br>Relevanz für therapeutische und diagnostische Anwen-<br>dungen in der Onkologie."
-		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
-		
-		tooltips[20]=["pic/Kugel/20_IR Holsteiner Kellere.jpg",
-		"Vom 6.–9. November konnten wir erfolgreich die inter- <br>disziplinären Basler Endokurse zusammen mit den<br>Kollegen der Angiologie und Gefässchirurgie anbieten.<br>Die gut besuchte Veranstaltung wurde als Basiskurs,<br>als Kurs für Embolisation und als Kurs für EVAR<br>(Endovascular Aortic Repair) angeboten und von den<br>Teilnehmerinnen und Teilnehmern erneut positiv beurteilt."
-		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
-		
-		tooltips[21]=["pic/Kugel/21_tillannae.jpg",
-		"Venia docendi – wir gratulieren PD Dr. Tilman Schubert<br>und PD Dr. Anna Hirschmann zur Habilitation."
-		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
-		
-		tooltips[22]=["pic/Kugel/FFFFFF-0.0.png",
-		"Unsere Studierenden haben, vom Bildungszentrum<br>Gesundheit Basel-Stadt (BZG) initiiert, am nationalen<br>Tag der Radiologiefachpersonen ihr Projekt zur zukünf-<br>tigen Berufswelt und zum Generationenwandel präsen-<br>tiert.<br>Die Präsentationen und die Resultate der Diskussionen<br>zum Thema Digitalisierung und Automatisierung wurden<br>dem Berufsverband (SVMTRA) überreicht.<br>Ein herzliches Dankeschön an die Studierenden<br>des Bildungsgangs MTR 17 sowie an die Projektleitung<br>des BZG."
-		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
-		
-		tooltips[23]=["pic/Kugel/23_csm_Simulation_Nijhuis_cd597f550de.jpg",
-		"Für seine wissenschaftliche Arbeit hat Dr. Emil Nijhuis,<br>wissenschaftlicher Mitarbeiter der diagnostischen und<br>interventionellen Neuroradiologie, einen GPU-Grant<br>erhalten.<br>Die Auszeichnung in Form eines hochleistungsfähigen<br>Grafikprozessors wurde ihm von NVIDIA für seine For-<br>schung zur Vergleichbarkeit von neuronalen Netzwerken<br>sowie zu deren Beeinflussung durch Hirntumoren<br>zugesprochen"
-		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
-		
-		tooltips[24]=["pic/Kugel/24_Bretze.jpg",
-		"Für ausserordentliche Leistungen: Hanna Bretz,<br>die im Rahmen ihres Studiums (BWL Gesundheits-<br>management) und unserer Kooperation mit der Dualen<br>Hochschule Baden Württemberg in der Klinik für<br>Radiologie und Nuklearmedizin sowie in der USB-<br>Tochter, dem Zentrum für Bilddiagnostik, angestellt<br>war, erhielt den mit 1000 Euro dotierten Preis der Stadt<br>Lörrach für ihre überdurchschnittliche Bachelorarbeit<br>(«Digitalisierung der Geschäftsprozesse eines mittel-<br>ständischen Radiologie-Instituts durch Konzeption<br>eines elektronischen Workflows von der Zuweisung<br>bis zum Befundversand»"
-		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
-		
-		tooltips[25]=["pic/Kugel/FFFFFF-0.0.png",
-		""
-		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
-		
-		tooltips[26]=["pic/Kugel/26_Raprad Logoe.jpg",
-		"Unseren Studierenden Bildinterpretation spielend ver-<br>mitteln: Die von Basler Radiologen und Dozenten<br>in Zusammenarbeit mit der Fachhochschule Nordwest-<br>schweiz entwickelte E-Learning-Plattform Raprad erhielt<br>den mit 5000 Franken dotierten Dozierendenpreis der<br>Fachschaft Medizin.<br>Raprad ähnelt einem Computergame und vermittelt Stu-<br>dierenden und Assistenzärzten das zur Befundung medi-<br>zinischer Bilder notwendige Wissen:<br>schnell, kompetent und mit hohem Spassfaktor."
+		tooltips[6]=["pic/06 Die finalen.jpg",
+		"Die finalen Resultate unserer prospektiven 177-Lu-PP-F11N-first<br>in man-Studie konnten im\
+		«Journal of Nuclear Medicine», dem am<br>höchsten gerankten nuklearmedizinischen Journal\
+		publiziert werden. "
 		,{background:"#f0e4cc", color:"white", opacity: 0.855}]		
 		
-		tooltips[88]=["pic/Kugel/88_Sockel_Brame.jpg",
-		"Das Swiss Personalized Health Network (SPHN)<br>fördert unser multizentrisches Forschungsprojekt zur<br>Kalibrierung von CT-Geräten zur genaueren, textur-<br>basierten Quantifizierung.<br>„QA4IQI Quality Assessment for Interoperable<br>Quantitative CT-Imaging“ analysiert die Diversität von<br>CT-Rohdaten an Schweizer Kliniken anhand von<br>Texturphantomen. Durch Kalibrierung wird die<br>Quantifizierung von pathologisch relevanten Bio-<br>markern genauer und besser vergleichbar, was exaktere<br>Aussagen zu Diagnose, Therapieentscheid und Pro-<br>gnose ermöglicht. Gefördert werden QA4IQI und<br>zwei weitere Projekte unter Beteiligung der Radiologie<br>mit fast 500‘000 Franken."
+		tooltips[7]=["pic/07 Auch 2019.jpg",
+		"Auch 2019 konnten wir über 20 Vorträge und Poster zur weltweit<br>bedeutendsten, von der\
+		amerikanischen Radiologiegesellschaft<br>veranstalteten Fachtagung beisteuern. Besonders\
+		erfreulich ist es,<br>dass die Beiträge überwiegend von unseren Assistenzärztinnen<br>und -ärzten\
+		stammen.<br>Auch am Kongress der European Society of Radiology waren unsere<br>Radiologinnen\
+		und Radiologen mit 15 Beiträgen gut vertreten.<br>Breit rezipiert wurde insbesondere der\
+		Vortrag zum 3D-Druck von<br>Dr. Philipp Brantner, Kaderarzt und Co-Leiter des 3D-Print Lab."
+		,{background:"#f0e4cc", color:"white", opacity: 0.855}]		
+		
+		tooltips[8]=["pic/08 Zwei Forschungsprojekte.jpg",
+		"Zwei Forschungsprojekte der Abteilungen für Nuklearmedizin<br>und für radiopharmazeutische\
+        Chemie wurden während der<br>Highlight Lecture am amerikanischen Nuklearmedizin-Kongress<br>\
+        (SNMMI) vorgestellt."
+		,{background:"#f0e4cc", color:"white", opacity: 0.855}]		
+
+		tooltips[9]=["pic/09 Die Abteilung.jpg",
+		"Die Abteilung für radiopharmazeutische Chemie wurde<br>internationale Kooperationspartnerin\
+        in dem mit 690'843 €<br>geförderten TECANT-Projektzu neuen 99mTc-markierten<br>Somatostatin-\
+        Rezeptorantagonisten.<br>Es ist eines von 25 EU-Forschungsprojekten zur ERAPerMed<br>\
+        personalisierten Medizin (im ERA-NET/Horizon 2020).<br>Das Kick-off-Meeting des\
+        Konsortiums fand mit<br>Prof. Melpomeni Fani und Dr. Rosalba Mansi als Vertreterinnen<br>des\
+        USB statt."
+		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
+
+		tooltips[10]=["pic/10 Alle Studierenden.jpg",
+		"Alle Studierenden des Bildungsgangs 2016 haben erfolgreich ihre<br>Ausbildung zur dipl.\
+        Radiologiefachperson HF abgeschlossen.<br>\
+        Wir gratulieren ihnen herzlich und wünschen ihnen viel Erfolg<br>im Berufsleben."
+		,{background:"#f0e4cc", color:"white", opacity: 0.855}]		
+		
+		tooltips[11]=["pic/11 Die Zusammenarbeit.jpg",
+		"Die Zusammenarbeit von Radiopharmazeutischer Chemie und<br>Nuklearmedizin bei der Entwicklung\
+        neuer Radiopharmazeutika<br>zur Behandlung von Darmkrebs wurde von der Universität Basel<br>\
+        (Nachwuchsförderung klinische Forschung) mit Fördermitteln<br>von 80'000 CHF ausgezeichnet.<br>\
+        <br>Stipendiat ist Dr. Guillaume Nicolas (Nuklearmedizin) für seine<br>Proof-of-Concept-Studie\
+        im Rahmen eines von Prof. Melpomeni<br>Fani (PI; Radiopharmazeutische Chemie) initiierten\
+        Projekts."
 		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
 		
-		tooltips[99]=["pic/Kugel/Raetsel_Blasenstein-in-Sternform-im-CT_e.jpg",
-		"Auch ein computertomografisches Bild<br>kann weihnächtlich anmuten.<br><br>Bei welcher Pathologie haben unsere Radiologinnen<br>und Radiologen Sterne gesehen?<br>Die ersten drei Personen, die uns (radiologie@usb.ch)<br>die richtige Antwort auf dieses Bilder-, Pardon,<br>Bildgebungsrätsel mitteilen, erhalten eine kleine<br>Aufmerksamkeit."
+		tooltips[12]=["pic/12 Prof Dr Marios Psychogios.jpg",
+		"Prof. Dr. Marios Psychogios wurde neuer Professor für<br>Neuroradiologie und Leiter der\
+        Abteilung für diagnostische<br>und interventionelle Neuroradiologie der Klinik für Radiologie<br>\
+        und Nuklearmedizin."
 		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
+		
+		tooltips[13]=["pic/13 Um medizinische Bilder.jpg",
+		"Um medizinische Bilder im DICOM-Format verteilen<br>und weiterleiten zu können, hat das\
+		Forschungsteam um<br>Dr. Kai Tobias Block und Joshy Cyriac (wissenschaftliche<br>Mitarbeiter\
+		der Radiologie) eine flexible<br>DICOM-Routing-Lösung entwickelt.<br><br>Der Open Source-Router\
+		Hermes überzeugt durch eine<br>sehr benutzerfreundliche Weboberfläche und umfangreiche<br>\
+		Überwachungsoptionen und hat sich bereits in der Praxis<br>bewährt."
+		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
+		
+		tooltips[14]=["pic/14 Dr Philipp Brantner.jpg",
+		"Dr. Philipp Brantner, Kaderarzt der Radiologie und Co-Leiter<br>des 3D-Print Lab wurde als\
+        Editor von der renommierten<br>Fachzeitschrift «3D Printing in Medicine» aufgenommen."
+		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
+		
+		tooltips[15]=["pic/15 Unsere Neuroradiologen.jpg",
+		"Unsere Neuroradiologen konnten das WEB-Embolisationssystem<br>erfolgreich und erstmals in\
+        Basel zur Embolisation eines nicht<br>rupturierten MCA-Bifurkationsaneurysmas einsetzen.<br>\
+        Die neue Therapie ermöglicht die Behandlung von breitbasigen<br>Aneurysmen ohne die Nutzung\
+        eines Stents und die damit<br>erforderliche Gerinnungshemmung."
+		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
+		
+		tooltips[16]=["pic/16 Das Aneurysma.jpg",
+		"Das Aneurysma des Stürmers Ricky van Wolfswinkel konnte<br>erfolgreich von uns behandelt\
+        werden.<br><br>Nachdem der FCB dies auf Instagram gepostet hatte, waren Echo und<br>Interesse an\
+        Aneurysmen sowie deren Behandlung gross – in der NZZ<br>ebenso wie auf Telebasel und in der\
+        internationalen Sportpresse.<br>Wir wünschen unserem flinken Patienten weiterhin alles Gute."
+		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
+		
+		tooltips[17]=["pic/17 Das Forschungsteam.jpg",
+		"Das Forschungsteam um Dr. Bram Stieltjes entwickelte einen<br>Algorithmus, der mittels Deep\
+		Learning distale Radialfrakturen<br>in Röntgenaufnahmen des Handgelenks automatisch erkennt<br>\
+		und klassifiziert."
+		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
+		
+		tooltips[20]=["pic/18 Der erste klinische.jpg",
+		"Der erste klinische Einsatz eines Derivo mini am Menschen<br>im Universitätsspital Basel war\
+        erfolgreich. Mit dem neuartigen<br>endovaskulären Implantat konnten unsere Neuroradiologen\
+        ein<br>nicht rupturiertes A1-Aneurysma therapieren und den Patient<br>am zweiten Tag symptomfrei\
+        entlassen. "
+		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
+		
+		tooltips[19]=["pic/19 Dr Balazs Krisztian Kovacs.jpg",
+		"Dr. Balázs Krisztián Kovács, Kaderarzt der muskuloskelettalen<br>Radiologie, erhielt am\
+        Jahreskongress der Schweizerischen<br>Gesellschaft für Radiologie den diesjährigen Research\
+        Prize<br>der Swiss Society of Skeletal Radiology. Er wurde ausgezeichnet<br>für eine\
+        Langzeitstudie zur MR-Morphologie von Kollagen-<br>Meniskusimplantaten des Kniegelenks nach\
+        Unfällen."
+		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
+		
+		tooltips[18]=["pic/",
+		"Rätsel"
+		,{background:"#f0e4cc", color:"white", opacity: 0.855}]
+		
+		// tooltips[21]=["pic/",
+		// ,{background:"#f0e4cc", color:"white", opacity: 0.855}]
+		
+		// tooltips[22]=["pic/",
+		// ,{background:"#f0e4cc", color:"white", opacity: 0.855}]
+		
+		// tooltips[23]=["pic/",
+		// ,{background:"#f0e4cc", color:"white", opacity: 0.855}]
+		
+		// tooltips[24]=["pic/",
+		// ,{background:"#f0e4cc", color:"white", opacity: 0.855}]
+		
+		// tooltips[25]=["pic/",
+		// ""
+		// ,{background:"#f0e4cc", color:"white", opacity: 0.855}]
+		
+		// tooltips[26]=["pic/",
+		// ,{background:"#f0e4cc", color:"white", opacity: 0.855}]		
+		
+		// tooltips[88]=["pic/",
+		// ,{background:"#f0e4cc", color:"white", opacity: 0.855}]
+		
+		// tooltips[99]=["pic/",
+		// ,{background:"#f0e4cc", color:"white", opacity: 0.855}]
 		
 
 		return tooltips //do not remove/change this line
