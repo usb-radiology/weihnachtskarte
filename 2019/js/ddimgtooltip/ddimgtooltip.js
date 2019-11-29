@@ -26,7 +26,7 @@ var ddimgtooltip={
 		bei Patientinnen und Patienten mit Lebertumoren<br>durchgeführt."
 		,{background:"#fffbec", color:"white", opacity: 0.95}]
 
-		tooltips[2]=["pic/03 Dr David Winkel.jpg",
+		tooltips[2]=["pic/03 Dr David Winkel_.jpg",
 		"Dr. David Winkel, Assistenzarzt der Radiologie, wurde<br>mit dem Young Investigator Award\
 		der Schweizerischen<br>Gesellschaft für Radiologie ausgezeichnet.<br>Er erhielt den Preis für\
 		seine wissenschaftlichen Arbeiten<br>zur abdominellen Bildgebung und zur Anwendung der<br>\
@@ -47,9 +47,9 @@ var ddimgtooltip={
 		,{background:"#fffbec", color:"white", opacity: 0.95}]		
 		
 		tooltips[4]=["pic/06 Die finalen.jpg",
-		"Die finalen Resultate unserer prospektiven 177-Lu-PP-F11N-<br>first in man-Studie konnten im\
-		«Journal of Nuclear Medicine», dem<br>am höchsten gerankten nuklearmedizinischen Journal\
-		publiziert<br>werden. "
+		"Die finalen Resultate unserer prospektiven 177-Lu-PP-F11N-<br>first in man-Studie\
+		konnten im «Journal of Nuclear Medicine»,<br>dem am höchsten gerankten\
+		nuklearmedizinischen Journal publi-<br>ziert werden."
 		,{background:"#fffbec", color:"white", opacity: 0.95}]		
 		
 		tooltips[13]=["pic/07 Auch 2019.jpg",
@@ -68,12 +68,12 @@ var ddimgtooltip={
 		,{background:"#fffbec", color:"white", opacity: 0.95}]		
 
 		tooltips[12]=["pic/09 Die Abteilung.jpg",
-		"Die Abteilung für radiopharmazeutische Chemie wurde<br>internationale Kooperationspartnerin\
-        in dem mit 690'843 €<br>geförderten TECANT-Projektzu neuen 99mTc-markierten<br>Somatostatin-\
-        Rezeptorantagonisten.<br>Es ist eines von 25 EU-Forschungsprojekten zur ERAPerMed<br>\
-        personalisierten Medizin (im ERA-NET/Horizon 2020).<br>Das Kick-off-Meeting des\
-        Konsortiums fand mit Prof. Melpo-<br>meni Fani und Dr. Rosalba Mansi als Vertreterinnen des\
-        USB statt."
+		"Die Abteilung für radiopharmazeutische Chemie wurde inter-<br>nationale\
+		Kooperationspartnerin in dem mit 690'843 €<br>geförderten TECANT-Projekt zu neuen\
+		99mTc-markierten <br>Somatostatin-Rezeptorantagonisten. <br>Es ist eines von 25\
+		EU-Forschungsprojekten zur ERAPerMed-<br>personalisierten Medizin (im ERA-NET/Horizon\
+			2020).<br>Das Kick-off-Meeting des Konsortiums fand mit Prof. Melpo-<br>meni Fani\
+			und Dr. Rosalba Mansi als Vertreterinnen des USB<br>statt."
 		,{background:"#fffbec", color:"white", opacity: 0.95}]
 
 		tooltips[5]=["pic/10 Alle Studierenden.jpg",
@@ -92,17 +92,18 @@ var ddimgtooltip={
 		,{background:"#fffbec", color:"white", opacity: 0.95}]
 		
 		tooltips[6]=["pic/12 Prof Dr Marios Psychogios.jpg",
-		"Prof. Dr. Marios Psychogios wurde neuer Professor für<br>Neuroradiologie und Leiter der\
-        Abteilung für diagnostische<br>und interventionelle Neuroradiologie der Klinik für Radiologie<br>\
-        und Nuklearmedizin."
+		"Prof. Dr. Marios Psychogios wurde neuer Professor für Neuro-<br>radiologie und\
+		Leiter der Abteilung für diagnostische und<br>interventionelle Neuroradiologie\
+		der Klinik für Radiologie<br>und Nuklearmedizin."
 		,{background:"#fffbec", color:"white", opacity: 0.95}]
 		
 		tooltips[7]=["pic/13 Um medizinische Bilder.jpg",
-		"Um medizinische Bilder im DICOM-Format verteilen<br>und weiterleiten zu können, hat das\
-		Forschungsteam um<br>Dr. Kai Tobias Block und Joshy Cyriac (wissenschaftliche<br>Mitarbeiter\
-		der Radiologie) eine flexible<br>DICOM-Routing-Lösung entwickelt.<br>Der Open Source-Router\
-		Hermes überzeugt durch eine<br>sehr benutzerfreundliche Weboberfläche und umfangreiche<br>\
-		Überwachungsoptionen und hat sich bereits in der Praxis<br>bewährt."
+		"Um medizinische Bilder im DICOM-Format verteilen<br>und weiterleiten zu können,\
+		hat das Forschungsteam um<br>Dr. Kai Tobias Block und Joshy Cyriac\
+		(wissenschaftliche<br>Mitarbeiter der Radiologie) eine flexible DICOM-<br>Routing-Lösung\
+		entwickelt.<br>Der Open Source-Router Hermes überzeugt durch eine<br>sehr\
+		benutzerfreundliche Weboberfläche und umfangreiche<br>Überwachungsoptionen und hat\
+		sich bereits in der Praxis<br>bewährt."
 		,{background:"#fffbec", color:"white", opacity: 0.95}]
 		
 		tooltips[14]=["pic/14 Dr Philipp Brantner.jpg",
@@ -111,10 +112,10 @@ var ddimgtooltip={
 		,{background:"#fffbec", color:"white", opacity: 0.95}]
 		
 		tooltips[16]=["pic/15 Unsere Neuroradiologen.jpg",
-		"Unsere Neuroradiologen konnten das WEB-Embolisationssystem<br>erfolgreich und erstmals in\
-        Basel zur Embolisation eines nicht<br>rupturierten MCA-Bifurkationsaneurysmas einsetzen.<br>\
-        Die neue Therapie ermöglicht die Behandlung von breitbasigen<br>Aneurysmen ohne die Nutzung\
-        eines Stents und die damit<br>erforderliche Gerinnungshemmung."
+		"Unsere Neuroradiologen konnten das WEB-Embolisationssystem<br>erfolgreich und erstmals\
+		in Basel zur Embolisation eines nicht<br>rupturierten MCA-Bifurkationsaneurysmas einsetzen.\
+		<br>Die neue Therapie ermöglicht die Behandlung von breitbasigen<br>Aneurysmen ohne die\
+		Nutzung eines Stents und die damit erfor-<br>derliche Gerinnungshemmung."
 		,{background:"#fffbec", color:"white", opacity: 0.95}]
 		
 		tooltips[15]=["pic/16 Das Aneurysma.jpg",
@@ -131,10 +132,10 @@ var ddimgtooltip={
 		,{background:"#fffbec", color:"white", opacity: 0.95}]
 		
 		tooltips[20]=["pic/18 Der erste klinische.jpg",
-		"Der erste klinische Einsatz eines Derivo mini am Menschen<br>im Universitätsspital Basel war\
-        erfolgreich. Mit dem neuartigen<br>endovaskulären Implantat konnten unsere Neuroradiologen\
-        ein<br>nicht rupturiertes A1-Aneurysma therapieren und den Patient<br>am zweiten Tag symptomfrei\
-        entlassen. "
+		"Der erste klinische Einsatz eines Derivo mini am Menschen<br>im Universitätsspital\
+		Basel war erfolgreich. <br>Mit dem neuartigen endovaskulären Implantat konnten un-\
+		<br>sere Neuroradiologen ein nicht rupturiertes A1-Aneurysma<br>therapieren und den\
+		Patienten am zweiten Tag symptomfrei<br>entlassen."
 		,{background:"#fffbec", color:"white", opacity: 0.95}]
 		
 		tooltips[19]=["pic/19 Dr Balazs Krisztian Kovacs.jpg",
@@ -145,35 +146,14 @@ var ddimgtooltip={
         Unfällen."
 		,{background:"#fffbec", color:"white", opacity: 0.95}]
 		
+		tooltips[21]=["pic/20 IR.jpg",
+		"Die Radiologiefachpersonen der Interventionellen Radiologie<br>hielten 9 Vorträge an\
+		verschiedenen Fachkongressen (SGR, <br>DGR und IROS) – ein starkes Jahr! "
+		,{background:"#fffbec", color:"white", opacity: 0.95}]
+
 		tooltips[18]=["pic/",
 		"Rätsel"
 		,{background:"#fffbec", color:"white", opacity: 0.95}]
-		
-		// tooltips[21]=["pic/",
-		// ,{background:"#f0e4cc", color:"white", opacity: 0.855}]
-		
-		// tooltips[22]=["pic/",
-		// ,{background:"#f0e4cc", color:"white", opacity: 0.855}]
-		
-		// tooltips[23]=["pic/",
-		// ,{background:"#f0e4cc", color:"white", opacity: 0.855}]
-		
-		// tooltips[24]=["pic/",
-		// ,{background:"#f0e4cc", color:"white", opacity: 0.855}]
-		
-		// tooltips[25]=["pic/",
-		// ""
-		// ,{background:"#f0e4cc", color:"white", opacity: 0.855}]
-		
-		// tooltips[26]=["pic/",
-		// ,{background:"#f0e4cc", color:"white", opacity: 0.855}]		
-		
-		// tooltips[88]=["pic/",
-		// ,{background:"#f0e4cc", color:"white", opacity: 0.855}]
-		
-		// tooltips[99]=["pic/",
-		// ,{background:"#f0e4cc", color:"white", opacity: 0.855}]
-		
 
 		return tooltips //do not remove/change this line
 	}(),
@@ -187,8 +167,9 @@ var ddimgtooltip={
 	createtip:function($, tipid, tipinfo){
 		if ($('#'+tipid).length==0){ //if this tooltip doesn't exist yet
 			return $('<div id="' + tipid + '" class="ddimgtooltip" />').html(
-				'<div style="text-align:center"><img src="' + tipinfo[0] + '" /></div>'
-				+ ((tipinfo[1])? '<div style="text-align:left; margin-top:5px">'+tipinfo[1]+'</div>' : '')
+				'<div style="text-align:center; margin-top:20px"><img src="' + tipinfo[0] + '" /></div>'
+				+ ((tipinfo[1])? '<div style="text-align:left; margin-left:5px; margin-right:5px;\
+				margin-top:20px">'+tipinfo[1]+'</div>' : '')
 				)
 			.css(tipinfo[2] || {})
 			.appendTo(document.body)

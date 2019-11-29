@@ -26,9 +26,10 @@ src:	/*url('font/ACasIon/ACaslonPro-Regular.eot'); /* IE9 Compat Modes */
  /*font-family: ACaslonPro;*/
  font-family: ACaslonPro;
  font-size: 17px;
- color: black;
+ /* color: black; */
+ color: #576828;
  font-weight: normal;
- line-height: 1.0;
+ line-height: 1.2;
 
 }
 
