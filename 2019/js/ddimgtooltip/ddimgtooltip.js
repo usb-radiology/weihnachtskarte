@@ -151,8 +151,11 @@ var ddimgtooltip={
 		verschiedenen Fachkongressen (SGR, <br>DGR und IROS) – ein starkes Jahr! "
 		,{background:"#fffbec", color:"white", opacity: 0.95}]
 
-		tooltips[18]=["pic/",
-		"Rätsel"
+		tooltips[18]=["pic/DorobaskischerBär.jpg",
+		"Welcher Teil des Skeletts<br>schmunzelte unseren Radiologinnen und Radiologen\
+		<br>bärenhaft zu?<br><br>Die ersten drei Personen, die uns (sekretariat.krn@usb.ch)\
+		<br>die richtige Antwort auf das in der Magnetresonanztomografie<br>entdeckte\
+		Bildgebungsrätsel mitteilen, erhalten eine kleine<br>Aufmerksamkeit."
 		,{background:"#fffbec", color:"white", opacity: 0.95}]
 
 		return tooltips //do not remove/change this line
@@ -169,7 +172,7 @@ var ddimgtooltip={
 			return $('<div id="' + tipid + '" class="ddimgtooltip" />').html(
 				'<div style="text-align:center; margin-top:20px"><img src="' + tipinfo[0] + '" /></div>'
 				+ ((tipinfo[1])? '<div style="text-align:left; margin-left:5px; margin-right:5px;\
-				margin-top:20px">'+tipinfo[1]+'</div>' : '')
+				margin-top:30px">'+tipinfo[1]+'</div>' : '')
 				)
 			.css(tipinfo[2] || {})
 			.appendTo(document.body)
