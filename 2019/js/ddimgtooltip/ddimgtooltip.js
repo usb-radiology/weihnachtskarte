@@ -44,15 +44,23 @@ var ddimgtooltip={
 		"Wir haben es aufs März-Cover geschafft!<br>Unsere Forschung zur Verbesserung der Diagnostik\
 		von<br>Prostatakrebs mittels der MRT (unter Kombination von<br>GRASP-Sequenz, Diffusions- und\
 		Perfusionsbildern)<br>wurde in der im Fachgebiet bedeutendsten Zeitschrift<br>«Radiology» publiziert."
-		,{background:"#fffbec", color:"white", opacity: 0.95}]		
+		,{background:"#fffbec", color:"white", opacity: 0.95}]
 		
-		tooltips[4]=["pic/06 Die finalen.jpg",
+		tooltips[4]=["pic/5_b Anonymisierte Abbildung aus Evaluation.jpg",
+		"Ein schönes Lob für die Dozierenden von Radiologie und<br>Nuklearmedizin!<br>\
+		Die Studierenden der Humanmedizin haben die beiden<br>praxisorientierten Wahlprojekte\
+		zur Bildgebung als bestes<br>und zweitbestes von 22 Projekten des 3. Bachelors (im<br>\
+		Studienjahr 2018/19) bewertet.<br>Damit belegen unsere Projekte schon zum 3. Mal\
+		die Podest-<br>plätze."
+		,{background:"#fffbec", color:"white", opacity: 0.95}]
+		
+		tooltips[13]=["pic/06 Die finalen.jpg",
 		"Die finalen Resultate unserer prospektiven 177-Lu-PP-F11N-<br>first in man-Studie\
 		konnten im «Journal of Nuclear Medicine»,<br>dem am höchsten gerankten\
 		nuklearmedizinischen Journal publi-<br>ziert werden."
 		,{background:"#fffbec", color:"white", opacity: 0.95}]		
 		
-		tooltips[13]=["pic/07 Auch 2019.jpg",
+		tooltips[3]=["pic/07 Auch 2019.jpg",
 		"Auch 2019 konnten wir über 20 Vorträge und Poster zur weltweit<br>bedeutendsten, von der\
 		amerikanischen Radiologiegesellschaft<br>veranstalteten Fachtagung beisteuern. Besonders\
 		erfreulich ist es,<br>dass die Beiträge überwiegend von unseren Assistenzärztinnen<br>und -ärzten\
@@ -61,13 +69,13 @@ var ddimgtooltip={
 		Vortrag zum 3D-Druck von<br>Dr. Philipp Brantner, Kaderarzt und Co-Leiter des 3D-Print Lab."
 		,{background:"#fffbec", color:"white", opacity: 0.95}]		
 		
-		tooltips[3]=["pic/08 Zwei Forschungsprojekte.jpg",
+		tooltips[12]=["pic/08 Zwei Forschungsprojekte.jpg",
 		"Zwei Forschungsprojekte der Abteilungen für Nuklearmedizin<br>und für radiopharmazeutische\
         Chemie wurden während der<br>Highlight Lecture am amerikanischen Nuklearmedizin-Kongress<br>\
         (SNMMI) vorgestellt."
 		,{background:"#fffbec", color:"white", opacity: 0.95}]		
 
-		tooltips[12]=["pic/09 Die Abteilung.jpg",
+		tooltips[5]=["pic/09 Die Abteilung.jpg",
 		"Die Abteilung für radiopharmazeutische Chemie wurde inter-<br>nationale\
 		Kooperationspartnerin in dem mit 690'843 €<br>geförderten TECANT-Projekt zu neuen\
 		99mTc-markierten <br>Somatostatin-Rezeptorantagonisten. <br>Es ist eines von 25\
@@ -76,13 +84,13 @@ var ddimgtooltip={
 			und Dr. Rosalba Mansi als Vertreterinnen des USB<br>statt."
 		,{background:"#fffbec", color:"white", opacity: 0.95}]
 
-		tooltips[5]=["pic/10 Alle Studierenden.jpg",
+		tooltips[9]=["pic/10 Alle Studierenden.jpg",
 		"Alle Studierenden des Bildungsgangs 2016 haben erfolgreich ihre<br>Ausbildung zur dipl.\
         Radiologiefachperson HF abgeschlossen.<br>\
         Wir gratulieren ihnen herzlich und wünschen ihnen viel Erfolg<br>im Berufsleben."
 		,{background:"#fffbec", color:"white", opacity: 0.95}]		
 		
-		tooltips[9]=["pic/11 Die Zusammenarbeit.jpg",
+		tooltips[6]=["pic/11 Die Zusammenarbeit.jpg",
 		"Die Zusammenarbeit von Radiopharmazeutischer Chemie und<br>Nuklearmedizin bei der Entwicklung\
         neuer Radiopharmazeutika<br>zur Behandlung von Darmkrebs wurde von der Universität Basel<br>\
         (Nachwuchsförderung klinische Forschung) mit Fördermitteln<br>von 80'000 CHF ausgezeichnet.\
@@ -91,13 +99,13 @@ var ddimgtooltip={
         Projekts."
 		,{background:"#fffbec", color:"white", opacity: 0.95}]
 		
-		tooltips[6]=["pic/12 Prof Dr Marios Psychogios.jpg",
+		tooltips[7]=["pic/12 Prof Dr Marios Psychogios.jpg",
 		"Prof. Dr. Marios Psychogios wurde neuer Professor für Neuro-<br>radiologie und\
 		Leiter der Abteilung für diagnostische und<br>interventionelle Neuroradiologie\
 		der Klinik für Radiologie<br>und Nuklearmedizin."
 		,{background:"#fffbec", color:"white", opacity: 0.95}]
 		
-		tooltips[7]=["pic/13 Um medizinische Bilder.jpg",
+		tooltips[14]=["pic/13 Um medizinische Bilder.jpg",
 		"Um medizinische Bilder im DICOM-Format verteilen<br>und weiterleiten zu können,\
 		hat das Forschungsteam um<br>Dr. Kai Tobias Block und Joshy Cyriac\
 		(wissenschaftliche<br>Mitarbeiter der Radiologie) eine flexible DICOM-<br>Routing-Lösung\
@@ -106,32 +114,32 @@ var ddimgtooltip={
 		sich bereits in der Praxis<br>bewährt."
 		,{background:"#fffbec", color:"white", opacity: 0.95}]
 		
-		tooltips[14]=["pic/14 Dr Philipp Brantner.jpg",
+		tooltips[16]=["pic/14 Dr Philipp Brantner.jpg",
 		"Dr. Philipp Brantner, Kaderarzt der Radiologie und Co-Leiter<br>des 3D-Print Lab wurde als\
         Editor von der renommierten<br>Fachzeitschrift «3D Printing in Medicine» aufgenommen."
 		,{background:"#fffbec", color:"white", opacity: 0.95}]
 		
-		tooltips[16]=["pic/15 Unsere Neuroradiologen.jpg",
+		tooltips[15]=["pic/15 Unsere Neuroradiologen.jpg",
 		"Unsere Neuroradiologen konnten das WEB-Embolisationssystem<br>erfolgreich und erstmals\
 		in Basel zur Embolisation eines nicht<br>rupturierten MCA-Bifurkationsaneurysmas einsetzen.\
 		<br>Die neue Therapie ermöglicht die Behandlung von breitbasigen<br>Aneurysmen ohne die\
 		Nutzung eines Stents und die damit erfor-<br>derliche Gerinnungshemmung."
 		,{background:"#fffbec", color:"white", opacity: 0.95}]
 		
-		tooltips[15]=["pic/16 Das Aneurysma.jpg",
+		tooltips[17]=["pic/16 Das Aneurysma.jpg",
 		"Das Aneurysma des Stürmers Ricky van Wolfswinkel konnte erfolg-<br>reich von uns behandelt\
         werden.<br>Nachdem der FCB dies auf Instagram gepostet hatte, waren Echo und<br>Interesse an\
         Aneurysmen sowie deren Behandlung gross – in der NZZ<br>ebenso wie auf Telebasel und in der\
         internationalen Sportpresse.<br>Wir wünschen unserem flinken Patienten weiterhin alles Gute."
 		,{background:"#fffbec", color:"white", opacity: 0.95}]
 		
-		tooltips[17]=["pic/17 Das Forschungsteam.jpg",
+		tooltips[20]=["pic/17 Das Forschungsteam.jpg",
 		"Das Forschungsteam um Dr. Bram Stieltjes entwickelte einen<br>Algorithmus, der mittels Deep\
 		Learning distale Radialfrakturen<br>in Röntgenaufnahmen des Handgelenks automatisch erkennt<br>\
 		und klassifiziert."
 		,{background:"#fffbec", color:"white", opacity: 0.95}]
 		
-		tooltips[20]=["pic/18 Der erste klinische.jpg",
+		tooltips[23]=["pic/18 Der erste klinische.jpg",
 		"Der erste klinische Einsatz eines Derivo mini am Menschen<br>im Universitätsspital\
 		Basel war erfolgreich. <br>Mit dem neuartigen endovaskulären Implantat konnten un-\
 		<br>sere Neuroradiologen ein nicht rupturiertes A1-Aneurysma<br>therapieren und den\
@@ -149,6 +157,12 @@ var ddimgtooltip={
 		tooltips[21]=["pic/20 IR.jpg",
 		"Die Radiologiefachpersonen der Interventionellen Radiologie<br>hielten 9 Vorträge an\
 		verschiedenen Fachkongressen (SGR, <br>DGR und IROS) – ein starkes Jahr! "
+		,{background:"#fffbec", color:"white", opacity: 0.95}]
+
+		tooltips[22]=["pic/22 Bauman Andreas_.jpg",
+		"Dr. Andreas Bauman ist als Experte in die Arbeitsgruppe<br>\
+		«Precursors for Radiopharmaceutical Preparations»\
+		<br>der Europäischen Pharmakopöe aufgenommen worden."
 		,{background:"#fffbec", color:"white", opacity: 0.95}]
 
 		tooltips[18]=["pic/DorobaskischerBär.jpg",

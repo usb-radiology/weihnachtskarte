@@ -16,7 +16,7 @@ src:	/*url('font/ACasIon/ACaslonPro-Regular.eot'); /* IE9 Compat Modes */
  }
  
  body {
-	position: fixed; 
+	/* position: fixed;  */
 	overflow-y: scroll;
 	width: 100%;
  }
