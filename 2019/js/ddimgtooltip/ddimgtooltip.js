@@ -100,9 +100,9 @@ var ddimgtooltip={
 		,{background:"#fffbec", color:"white", opacity: 0.95}]
 		
 		tooltips[7]=["pic/12 Abteilungsfoto Dec2019 mq.jpg",
-		"Prof. Dr. Marios Psychogios (ganz links) wurde neuer Professor<br>für Neuroradiologie\
-		und Leiter der Abteilung für diagnostische<br>und interventionelle Neuroradiologie der\
-		Klinik für Radiologie<br>und Nuklearmedizin."
+		"Prof. Dr. Marios Psychogios (3. von links) wurde neuer<br>Professor für Neuroradiologie\
+		und Leiter der Abteilung<br>für diagnostische und interventionelle Neuroradiologie\
+		<br>der Klinik für Radiologie und Nuklearmedizin"
 		,{background:"#fffbec", color:"white", opacity: 0.95}]
 		
 		tooltips[14]=["pic/13 Um medizinische Bilder.jpg",
