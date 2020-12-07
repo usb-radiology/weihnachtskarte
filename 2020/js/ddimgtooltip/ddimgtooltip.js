@@ -12,207 +12,32 @@ var ddimgtooltip = {
     //For CSS object, follow the syntax: {property1:"cssvalue1", property2:"cssvalue2", etc}
 
     tooltips[1] = [
-      "pic/01 Wir freuen.jpg",
-      "Wir freuen uns über den SIWF AWARD, der uns vom<br>Schweizerischen Institut für ärztliche\
-		Weiter- und Fort-<br>bildung (SIWF) verliehen wurde.<br>Erst sechs von schweizweit über 1‘000\
-		Weiterbildungs-<br>teams erhielten bisher die Auszeichnung, die für beson-<br>deres Engagement\
-		und Kompetenz in der ärztlichen<br>Weiterbildung vergeben wird.",
-      { background: "white", opacity: 0.95 },
-    ];
-
-    tooltips[8] = [
-      "pic/02 Die schweizweit.jpg",
-      "Die schweizweit ersten leberspezifischen Therapien mit<br>Holmium-166-Mikrospheren wurden\
-		von den Abteilungen<br>für interventionelle Radiologie und für Nuklearmedizin<br>erfolgreich\
-		bei Patientinnen und Patienten mit Lebertumoren<br>durchgeführt.",
+      "pic/01 film.gif",
+      "Prämierter Legostein in der nano-SPECT/CT:<br>Der unter Mitwirkung von Guillaume Nicolas, Oberarzt der Nuklear-<br>medizin, entstandene Film zeigt, wie ein neuer mobiler<br>Detektor nuklearmedizinische Bildgebung einsetzen und<br>Radioaktivität intraoperativ visualisieren könnte.<br>Er erhielt den 1. Preis des Bildwettbewerbs des SNF.",
       { background: "white", opacity: 0.95 },
     ];
 
     tooltips[2] = [
-      "pic/03 Dr David Winkel_.jpg",
-      "Dr. David Winkel, Assistenzarzt der Radiologie, wurde<br>mit dem Young Investigator Award\
-		der Schweizerischen<br>Gesellschaft für Radiologie ausgezeichnet.<br>Er erhielt den Preis für\
-		seine wissenschaftlichen Arbeiten<br>zur abdominellen Bildgebung und zur Anwendung der<br>\
-		künstlichen Intelligenz in der Radiologie.",
-      { background: "white", opacity: 0.95 },
-    ];
-
-    tooltips[10] = [
-      "pic/04 Das Tumorzentrum.jpg",
-      "Das Tumorzentrum für Neuroendokrine und Endokrine Tumore<br>wurde dank wesentlichem Beitrag\
-		der Nuklearmedizin von der <br>Europäischen Gesellschaft für Neuroendokrine Tumore erfolgreich<br>\
-		als Center of Excellence auditiert und von der deutschen Krebs-<br>gesellschaft als Schwerpunkt\
-		zertifiziert.",
-      { background: "white", opacity: 0.95 },
-    ];
-
-    tooltips[11] = [
-      "pic/05 Wir haben es.jpg",
-      "Wir haben es aufs März-Cover geschafft!<br>Unsere Forschung zur Verbesserung der Diagnostik\
-		von<br>Prostatakrebs mittels der MRT (unter Kombination von<br>GRASP-Sequenz, Diffusions- und\
-		Perfusionsbildern)<br>wurde in der im Fachgebiet bedeutendsten Zeitschrift<br>«Radiology» publiziert.",
-      { background: "white", opacity: 0.95 },
-    ];
-
-    tooltips[4] = [
-      "pic/5_b Anonymisierte Abbildung aus Evaluation.jpg",
-      "Ein schönes Lob für die Dozierenden von Radiologie und<br>Nuklearmedizin!<br>\
-		Die Studierenden der Humanmedizin haben die beiden<br>praxisorientierten Wahlprojekte\
-		zur Bildgebung als bestes<br>und zweitbestes von 22 Projekten des 3. Bachelors (im<br>\
-		Studienjahr 2018/19) bewertet.<br>Damit belegen unsere Projekte schon zum 3. Mal\
-		die Podest-<br>plätze.",
-      { background: "white", opacity: 0.95 },
-    ];
-
-    tooltips[13] = [
-      "pic/06 Die finalen.jpg",
-      "Die finalen Resultate unserer prospektiven 177-Lu-PP-F11N-<br>first in man-Studie\
-		konnten im «Journal of Nuclear Medicine»,<br>dem am höchsten gerankten\
-		nuklearmedizinischen Journal publi-<br>ziert werden.",
+      "pic/02 Ein neues.jpg",
+      "Ein neues Medikament könnte helfen, nach einem<br>Schlaganfall Gehirnzellen zu erhalten.<br>Die unter Beteiligung unserer Neuroradiologen erzielten<br>Forschungsergebnisse wurden in der Zeitschrift<br>«The Lancet» veröffentlicht. In der internationalen<br>Studie konnte gezeigt werden, dass der Wirkstoff Neri-<br>netid bei einer Subgruppe von Patienten das Therapie-<br>ergebnis signifikant verbessern konnte.",
       { background: "white", opacity: 0.95 },
     ];
 
     tooltips[3] = [
-      "pic/07 Auch 2019.jpg",
-      "Auch 2019 konnten wir über 20 Vorträge und Poster zur weltweit<br>bedeutendsten, von der\
-		amerikanischen Radiologiegesellschaft<br>veranstalteten Fachtagung beisteuern. Besonders\
-		erfreulich ist es,<br>dass die Beiträge überwiegend von unseren Assistenzärztinnen<br>und -ärzten\
-		stammen.<br>Auch am Kongress der European Society of Radiology waren unsere<br>Radiologinnen\
-		und Radiologen mit 15 Beiträgen gut vertreten.<br>Breit rezipiert wurde insbesondere der\
-		Vortrag zum 3D-Druck von<br>Dr. Philipp Brantner, Kaderarzt und Co-Leiter des 3D-Print Lab.",
+      "pic/03 Im Mai.jpg",
+      "Im Mai ist am USB der erste Patient mit Lutetium-177-<br>PSMA erfolgreich behandelt worden. Damit sind wir-<br>das erste Schweizer Spital, das Lu-177-PSMA zur Thera--<br>pie des fortgeschrittenen, metastasierten Prostata-<br>karzinoms im Haus produziert und anwendet.<br>Diese vielversprechende neue Behandlungsmethode<br>gegen den häufigsten bösartigen Tumor bzw. die zweit-<br>häufigste Todesursache beim Mann ist durch den ge-<br>meinsamen Effort der radiopharmazeutischen Chemie<br>und der Nuklearmedizin verfügbar.<br>Die Nuklearmedizin kann zudem das aktive Tumor-<br>volumen automatisiert in der posttherapeutischen Lu-<br>177-PSMA-Bildgebung quantifizieren und das Therapie-<br>ansprechen unmittelbar monitorisieren.",
       { background: "white", opacity: 0.95 },
     ];
 
-    tooltips[12] = [
-      "pic/08 Zwei Forschungsprojekte.jpg",
-      "Zwei Forschungsprojekte der Abteilungen für Nuklearmedizin<br>und für radiopharmazeutische\
-        Chemie wurden während der<br>Highlight Lecture am amerikanischen Nuklearmedizin-Kongress<br>\
-        (SNMMI) vorgestellt.",
+    tooltips[4] = [
+      "pic/04 Die Volumendarstellung.gif",
+      "Die Volumendarstellung zeigt, dass atypische Pneumo-<br>nien, wie sie bei COVID-19 erkrankten Patienten auf-<br>treten, mit der CT exzellent detektiert werden können.<br>Wir haben eine Methode entwickelt, mit der die Infil-<br>trate qualitativ beschrieben<br>und vollautomatisiert quantifiziert werden können.<br>Aus den bildbasierten Biomarkern können wertvolle <br/> Informationen über Schweregrad und Verlauf der Er-<br>krankung abgeleitet werden. Unsere Ergebnisse wurden<br>in verschiedenen Fachzeitschriften publiziert.",
       { background: "white", opacity: 0.95 },
     ];
 
     tooltips[5] = [
-      "pic/09 Die Abteilung.jpg",
-      "Die Abteilung für radiopharmazeutische Chemie wurde inter-<br>nationale\
-		Kooperationspartnerin in dem mit 690'843 €<br>geförderten TECANT-Projekt zu neuen\
-		99mTc-markierten <br>Somatostatin-Rezeptorantagonisten. <br>Es ist eines von 25\
-		EU-Forschungsprojekten zur ERAPerMed-<br>personalisierten Medizin (im ERA-NET/Horizon\
-			2020).<br>Das Kick-off-Meeting des Konsortiums fand mit Prof. Melpo-<br>meni Fani\
-			und Dr. Rosalba Mansi als Vertreterinnen des USB<br>statt.",
-      { background: "white", opacity: 0.95 },
-    ];
-
-    tooltips[9] = [
-      "pic/10 Alle Studierenden.jpg",
-      "Alle Studierenden des Bildungsgangs 2016 haben erfolgreich ihre<br>Ausbildung zur dipl.\
-        Radiologiefachperson HF abgeschlossen.<br>\
-        Wir gratulieren ihnen herzlich und wünschen ihnen viel Erfolg<br>im Berufsleben.",
-      { background: "white", opacity: 0.95 },
-    ];
-
-    tooltips[6] = [
-      "pic/11 Die Zusammenarbeit.jpg",
-      "Die Zusammenarbeit von Radiopharmazeutischer Chemie und<br>Nuklearmedizin bei der Entwicklung\
-        neuer Radiopharmazeutika<br>zur Behandlung von Darmkrebs wurde von der Universität Basel<br>\
-        (Nachwuchsförderung klinische Forschung) mit Fördermitteln<br>von 80'000 CHF ausgezeichnet.\
-        <br>Stipendiat ist Dr. Guillaume Nicolas (Nuklearmedizin) für seine<br>Proof-of-Concept-Studie\
-        im Rahmen eines von Prof. Melpomeni<br>Fani (PI; Radiopharmazeutische Chemie) initiierten\
-        Projekts.",
-      { background: "white", opacity: 0.95 },
-    ];
-
-    tooltips[7] = [
-      "pic/12 Abteilungsfoto Dec2019 mq.jpg",
-      "Prof. Dr. Marios Psychogios (3. von links) wurde neuer<br>Professor für Neuroradiologie\
-		und Leiter der Abteilung<br>für diagnostische und interventionelle Neuroradiologie\
-		<br>der Klinik für Radiologie und Nuklearmedizin",
-      { background: "white", opacity: 0.95 },
-    ];
-
-    tooltips[14] = [
-      "pic/13 Um medizinische Bilder.jpg",
-      "Um medizinische Bilder im DICOM-Format verteilen<br>und weiterleiten zu können,\
-		hat das Forschungsteam um<br>Dr. Kai Tobias Block und Joshy Cyriac\
-		(wissenschaftliche<br>Mitarbeiter der Radiologie) eine flexible DICOM-<br>Routing-Lösung\
-		entwickelt.<br>Der Open Source-Router Hermes überzeugt durch eine<br>sehr\
-		benutzerfreundliche Weboberfläche und umfangreiche<br>Überwachungsoptionen und hat\
-		sich bereits in der Praxis<br>bewährt.",
-      { background: "white", opacity: 0.95 },
-    ];
-
-    tooltips[16] = [
-      "pic/14 Dr Philipp Brantner.jpg",
-      "Dr. Philipp Brantner, Kaderarzt der Radiologie und Co-Leiter<br>des 3D-Print Lab wurde als\
-        Editor von der renommierten<br>Fachzeitschrift «3D Printing in Medicine» aufgenommen.",
-      { background: "white", opacity: 0.95 },
-    ];
-
-    tooltips[15] = [
-      "pic/15 Unsere Neuroradiologen.jpg",
-      "Unsere Neuroradiologen konnten das WEB-Embolisationssystem<br>erfolgreich und erstmals\
-		in Basel zur Embolisation eines nicht<br>rupturierten MCA-Bifurkationsaneurysmas einsetzen.\
-		<br>Die neue Therapie ermöglicht die Behandlung von breitbasigen<br>Aneurysmen ohne die\
-		Nutzung eines Stents und die damit erfor-<br>derliche Gerinnungshemmung.",
-      { background: "white", opacity: 0.95 },
-    ];
-
-    tooltips[17] = [
-      "pic/16 Das Aneurysma.jpg",
-      "Das Aneurysma des Stürmers Ricky van Wolfswinkel konnte erfolg-<br>reich von uns behandelt\
-        werden.<br>Nachdem der FCB dies auf Instagram gepostet hatte, waren Echo und<br>Interesse an\
-        Aneurysmen sowie deren Behandlung gross – in der NZZ<br>ebenso wie auf Telebasel und in der\
-        internationalen Sportpresse.<br>Wir wünschen unserem flinken Patienten weiterhin alles Gute.",
-      { background: "white", opacity: 0.95 },
-    ];
-
-    tooltips[20] = [
-      "pic/17 Das Forschungsteam.jpg",
-      "Das Forschungsteam um Dr. Bram Stieltjes entwickelte einen<br>Algorithmus, der mittels Deep\
-		Learning distale Radialfrakturen<br>in Röntgenaufnahmen des Handgelenks automatisch erkennt<br>\
-		und klassifiziert.",
-      { background: "white", opacity: 0.95 },
-    ];
-
-    tooltips[23] = [
-      "pic/18 Der erste klinische.jpg",
-      "Der erste klinische Einsatz eines Derivo mini am Menschen<br>im Universitätsspital\
-		Basel war erfolgreich. <br>Mit dem neuartigen endovaskulären Implantat konnten un-\
-		<br>sere Neuroradiologen ein nicht rupturiertes A1-Aneurysma<br>therapieren und den\
-		Patienten am zweiten Tag symptomfrei<br>entlassen.",
-      { background: "white", opacity: 0.95 },
-    ];
-
-    tooltips[19] = [
-      "pic/19 Dr Balazs Krisztian Kovacs.jpg",
-      "Dr. Balázs Krisztián Kovács, Kaderarzt der muskuloskelettalen<br>Radiologie, erhielt am\
-        Jahreskongress der Schweizerischen<br>Gesellschaft für Radiologie den diesjährigen Research\
-        Prize<br>der Swiss Society of Skeletal Radiology. Er wurde ausgezeichnet<br>für eine\
-        Langzeitstudie zur MR-Morphologie von Kollagen-<br>Meniskusimplantaten des Kniegelenks nach\
-        Unfällen.",
-      { background: "white", opacity: 0.95 },
-    ];
-
-    tooltips[21] = [
-      "pic/20 IR.jpg",
-      "Die Radiologiefachpersonen der Interventionellen Radiologie<br>hielten 9 Vorträge an\
-		verschiedenen Fachkongressen (SGR, <br>DGR und IROS) – ein starkes Jahr! ",
-      { background: "white", opacity: 0.95 },
-    ];
-
-    tooltips[22] = [
-      "pic/22 Bauman Andreas_.jpg",
-      "Dr. Andreas Bauman ist als Experte in die Arbeitsgruppe<br>\
-		«Precursors for Radiopharmaceutical Preparations»\
-		<br>der Europäischen Pharmakopöe aufgenommen worden.",
-      { background: "white", opacity: 0.95 },
-    ];
-
-    tooltips[18] = [
-      "pic/DorobaskischerBär.jpg",
-      "Welcher Teil des Skeletts<br>schmunzelte unseren Radiologinnen und Radiologen\
-		<br>bärenhaft zu?<br><br>Die ersten drei Personen, die uns (sekretariat.krn@usb.ch)\
-		<br>die richtige Antwort auf das in der Magnetresonanztomografie<br>entdeckte\
-		Bildgebungsrätsel mitteilen, erhalten eine kleine<br>Aufmerksamkeit.",
+      "pic/05 Nicht nur.jpg",
+      "Nicht nur für unsere COVID-Patientinnen und -Patienten<br>blieb das CT-Team dieses Jahr oft länger am USB.<br>Die deutliche Zunahme, insbesondere von CT-Unter-<br>suchungen des Thorax, war – obwohl sie füreinander ein-<br>standen – für alle spürbar.",
       { background: "white", opacity: 0.95 },
     ];
 
