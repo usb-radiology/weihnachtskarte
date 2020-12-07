@@ -41,6 +41,114 @@ var ddimgtooltip = {
       { background: "white", opacity: 0.95 },
     ];
 
+    tooltips[6] = [
+      "pic/06 Die neue.jpg",
+      "Die neue Methode für die hoch aufgelöste thorakale<br>MRT zierte das Titelbild der Juli-Ausgabe der Zeitschrift<br>«Magnetic Resonance in Medicine».<br>Entwickelt haben sie unsere Physiker Dr. Grzegorz Bau-<br>man und Prof. Oliver Bieri.",
+      { background: "white", opacity: 0.95 },
+    ];
+
+    tooltips[7] = [
+      "pic/07 Die Pandemie.jpg",
+      "Die Pandemie hat den digitalen Wandel weiter<br>beschleunigt und stellt uns auch in der Lehre vor neue<br>Herausforderungen. Deshalb haben wir RapMed, eine<br>neue, auf Crowdsourcing-Technologie basierende,<br>E-Learning-Plattform entwickelt.<br>Crowdsourcing ermöglicht es Studierenden, gemeinsam<br>an der Lösung von Fällen zu arbeiten und reduziert den<br>Aufwand zur Bereitstellung von Lehrinhalten.",
+      { background: "white", opacity: 0.95 },
+    ];
+
+    tooltips[8] = [
+      "pic/08 1 Million.jpg",
+      "1 Million für die Forschung: Die radiopharmazeutische<br>Chemie erhielt zwei der umworbensten Fördermittel<br>der Schweiz von SNF (CHF 453'193) und Innosuisse<br>(CHF 559'295). Hauptantragstellerin war Prof. Melpo-<br>meni Fani, Leiterin der radiopharmazeutischen Chemie.",
+      { background: "white", opacity: 0.95 },
+    ];
+
+    tooltips[9] = [
+      "pic/09 Der neue.jpg",
+      "Der neue Computertomograf (Siemens Somatom Defi-<br>nition Force) ermöglicht uns noch präzisere Quanti-<br>fizierungen bei branchenweit schnellster Scanzeit und<br>weiterer Optimierung der Strahlendosis.<br>Erreicht wird die für unsere Patienten aussage-<br>kräftigere, schonendere und schnellere 4D-Bildgebung<br>mittels Dual Energy-Technik. ",
+      { background: "white", opacity: 0.95 },
+    ];
+
+    tooltips[10] = [
+      "pic/10 rippen_thorax_weihnachtsbaum.jpg",
+      "Was aussieht wie ein Christbäumchen ist das Ergebnis<br>der Suche eines Algorithmus.<br>Der zur Auswertung einer CT eingesetzte Algorithmus<br>hat mittels künstlicher Intelligenz Wirbelsäule und<br>Rippenthorax gesucht. Und gefunden.  ",
+      { background: "white", opacity: 0.95 },
+    ];
+
+    tooltips[11] = [
+      "pic/11 An der.jpg",
+      "An der diesjährigen Poster-Präsentation des Bildungs-<br>zentrums Gesundheit Basel-Stadt (BZG) erreichten gleich<br>zwei unserer Studierenden das Podest:<br>David Hunn (1. Platz für «Astronauten und die Welt-<br>raumstrahlung») und Thomas Stocker (3. Platz für<br>«Intraossäre Kontrastmittelgabe am CT»).<br>Herzlichen Glückwunsch!",
+      { background: "white", opacity: 0.95 },
+    ];
+
+    tooltips[12] = [
+      "pic/12 Die Qualität.jpg",
+      "Die Qualität der Weiterbildung ist uns wichtig.<br>Wir freuen uns sehr, dass wir zum wiederholten Mal als<br>beste universitäre Weiterbildungsstätte für Radiologie<br>der Schweiz bewertet wurden.<br>Zu diesem Ergebnis kam die FMH aufgrund ihrer<br>schweizweiten Evaluation aller radiologischen Weiter-<br>bildungsstätten.",
+      { background: "white", opacity: 0.95 },
+    ];
+
+    tooltips[13] = [
+      "pic/13 Während der.jpg",
+      "Während der ersten Welle beschloss die Task-Force<br>COVID-19 des USB, den Hybrid-OP9 für die Bildgebung<br>von COVID-Patienten zu nutzen.<br>Damit konnten die Wege zur Notfallstation verkürzt so-<br>wie die Untersuchung und Verlegung auf die Kohorten-<br>oder Intensiv-Stationen beschleunigt werden.",
+      { background: "white", opacity: 0.95 },
+    ];
+
+    tooltips[14] = [
+      "pic/14 Eine ungewöhnliche.jpg",
+      "Eine ungewöhnliche Patientin, eine neapolitanische<br>Geige von 1910–1915, wurde wegen surrender Neben-<br>geräusche mittels CT untersucht. Zum Vorschein kamen<br>unterhalb des Bassbalkens mehrere Lufteinschlüsse<br>sowie ein kleines Metallstück.<br>Denkbar ist, dass ein Geigenbauer durch die Löcher ent-<br>standene Schwingungen mit dem Metall tilgen wollte.",
+      { background: "white", opacity: 0.95 },
+    ];
+
+    tooltips[15] = [
+      "pic/15 Prof Melpomeni.jpg",
+      "Prof. Melpomeni Fani, Leiterin der radiopharmazeu-<br>tischen Chemie, leitete die Plenarsitzung 3 und hielt <br/> den ersten Vortrag am europäischen Kongress der Nuklear-<br>medizin (EANM). Die Sitzung war dem Thema<br>«Radiopharmazeutika der nächsten Generation»<br>mit über 1000 Teilnehmern gewidmet.",
+      { background: "white", opacity: 0.95 },
+    ];
+
+    tooltips[16] = [
+      "pic/16 Die aktuellen.jpg",
+      "Die aktuellen Ergebnisse der Lumed-Studie konnten<br>in der «Top Rated Oral Presentation»- und der «High-<br>light»-Session am europäischen Kongress der Nuklear-<br>medizin (EANM) vorgestellt werden.<br>Inhalt der Studie ist der Einsatz von 177-Lu-PP-F11N<br>für die rezeptorgesteuerte Therapie und Bildgebung<br>des metastasierten medullären Schilddrüsenkrebses.",
+      { background: "white", opacity: 0.95 },
+    ];
+
+    tooltips[17] = [
+      "pic/17 Alle Studierenden.jpg",
+      "Alle Studierenden des Bildungsgangs MTR 17<br>haben erfolgreich ihre Ausbildung zur dipl. Radiologie-<br>fachperson HF abgeschlossen.<br>Wir gratulieren ganz herzlich und wünschen ihnen<br>viel Erfolg im weiteren Berufsleben.",
+      { background: "white", opacity: 0.95 },
+    ];
+
+    tooltips[18] = [
+      "pic/18 2 von 10.jpg",
+      "2 von 10 Abstracts der «Hot Topic Session – EANM 2020<br>Best Clinical Trials» am europäischen Kongress der Nuk-<br>learmedizin waren Beiträge der Nuklearmedizin Basel.",
+      { background: "white", opacity: 0.95 },
+    ];
+
+    tooltips[19] = [
+      "pic/19 Rochade auf.jpg",
+      "Rochade auf einer Drehscheibe: Samantha Schmied hat<br>die Leitung der Anmeldung von Radiologie und Nuklear-<br>medizin von Alexandra Streuber übernommen, die sich<br>wieder dem Controlling widmet.",
+      { background: "white", opacity: 0.95 },
+    ];
+
+    tooltips[20] = [
+      "pic/20 Automatisierung des.jpg",
+      "Automatisierung des Bildimports vorangetrieben:<br>Seit März werden unsere Fremdaufnahmen automatisch<br>importiert. Die neue, mit der Radiologie konfigurierte,<br>Software PAN Import filtert Daten aus den Bildinforma-<br>tionen und ordnet diese automatisch dem richtigen<br>Patienten zu. Zudem erkennt sie anhand der Bilddaten,<br>um welche Untersuchung es sich handelt.",
+      { background: "white", opacity: 0.95 },
+    ];
+
+    tooltips[21] = [
+      "pic/21 Der diesjährige.jpg",
+      "Der diesjährige Bildungsgang MTR hat im September<br>am USB mit 9 Studierenden gestartet.<br>Wir wünschen ihnen für die kommenden 3 Jahre<br>viel Erfolg und Freude, diesen spannenden Beruf zu<br>erlernen. ",
+      { background: "white", opacity: 0.95 },
+    ];
+
+    tooltips[22] = [
+      "pic/22 Das erstmals.jpg",
+      "Das erstmals von Radiologiefachpersonen der inter-<br>ventionellen Neuroradiologie und der Firma Micro-<br>vention angebotene Webinar für Radiologiefach-<br>personen war mit 65 Teilnehmern aus der Schweiz,<br>Deutschland und Österreich sehr erfolgreich.<br>Ein 2. Webinar ist bereits für Frühjahr 2021 geplant.",
+      { background: "white", opacity: 0.95 },
+    ];
+
+    tooltips[23] = [
+      "pic/Rätsel Christbaumkugeln.jpg",
+      "Christbaumkugeln oder Blüten einer Passionsblume?<br>Unser Weihnachtsrätsel bezaubert auch in der MRT<br>durch seine pentagonal-ausgewogene Struktur.<br>(Profan mag interessieren, dass es unter Verwendung<br>einer 64-Kanal-Kopf/Hals-Spule mittels T1-gewichteter<br>TIRM- und T2-gewichteter 3D-SPACE-Sequenz im 3T-<br>Magnetom Prisma entstand.)<br>Die ersten drei Personen, die uns schreiben<br>(sekretariat.krn@usb.ch), was aufgenommen wurde, er-<br>halten eine kleine Aufmerksamkeit.",
+      { background: "white", opacity: 0.95 },
+    ];
+
     return tooltips; //do not remove/change this line
   })(),
 
