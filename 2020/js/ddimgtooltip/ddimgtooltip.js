@@ -25,7 +25,7 @@ var ddimgtooltip = {
 
     tooltips[3] = [
       "pic/03 Im Mai.jpg",
-      "Im Mai ist am USB der erste Patient mit Lutetium-177-<br>PSMA erfolgreich behandelt worden. Damit sind wir-<br>das erste Schweizer Spital, das Lu-177-PSMA zur Thera-<br>pie des fortgeschrittenen, metastasierten Prostata-<br>karzinoms im Haus produziert und anwendet.<br>Diese vielversprechende neue Behandlungsmethode<br>gegen den häufigsten bösartigen Tumor bzw. die zweit-<br>häufigste Todesursache beim Mann ist durch den ge-<br>meinsamen Effort der radiopharmazeutischen Chemie<br>und der Nuklearmedizin verfügbar.<br>Die Nuklearmedizin kann zudem das aktive Tumor-<br>volumen automatisiert in der posttherapeutischen Lu-<br>177-PSMA-Bildgebung quantifizieren und das Therapie-<br>ansprechen unmittelbar monitorisieren.",
+      "Im Mai ist am USB der erste Patient mit Lutetium-177-<br>PSMA erfolgreich behandelt worden. Damit sind wir<br>das erste Schweizer Spital, das Lu-177-PSMA zur Thera-<br>pie des fortgeschrittenen, metastasierten Prostata-<br>karzinoms im Haus produziert und anwendet.<br>Diese vielversprechende neue Behandlungsmethode<br>gegen den häufigsten bösartigen Tumor bzw. die zweit-<br>häufigste Todesursache beim Mann ist durch den ge-<br>meinsamen Effort der radiopharmazeutischen Chemie<br>und der Nuklearmedizin verfügbar.<br>Die Nuklearmedizin kann zudem das aktive Tumor-<br>volumen automatisiert in der posttherapeutischen Lu-<br>177-PSMA-Bildgebung quantifizieren und das Therapie-<br>ansprechen unmittelbar monitorisieren.",
       { background: "white", opacity: 0.95 },
     ];
 
