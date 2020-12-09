@@ -13,25 +13,25 @@ var ddimgtooltip = {
 
     tooltips[1] = [
       "pic/01 film.gif",
-      "Prämierter Legostein in der nano-SPECT/CT:<br>Der unter Mitwirkung von Guillaume Nicolas, Oberarzt der Nuklear-<br>medizin, entstandene Film zeigt, wie ein neuer mobiler<br>Detektor nuklearmedizinische Bildgebung einsetzen und<br>Radioaktivität intraoperativ visualisieren könnte.<br>Er erhielt den 1. Preis des Bildwettbewerbs des SNF.",
-      { background: "white", opacity: 0.95 },
+      "Prämierter Legostein in der nano-SPECT/CT:<br>Der unter Mitwirkung von Guillaume Nicolas, Oberarzt der Nuklear-<br>medizin, entstandene Film zeigt, wie ein neuer mobiler Detektor<br>nuklearmedizinische Bildgebung einsetzen und Radioaktivität intra-<br>operativ visualisieren könnte.<br>Er erhielt den 1. Preis des Bildwettbewerbs des SNF.",
+      { background: "black", opacity: 0.90 },
     ];
 
     tooltips[2] = [
       "pic/02 Ein neues.jpg",
       "Ein neues Medikament könnte helfen, nach einem<br>Schlaganfall Gehirnzellen zu erhalten.<br>Die unter Beteiligung unserer Neuroradiologen erzielten<br>Forschungsergebnisse wurden in der Zeitschrift<br>«The Lancet» veröffentlicht. In der internationalen<br>Studie konnte gezeigt werden, dass der Wirkstoff Neri-<br>netid bei einer Subgruppe von Patienten das Therapie-<br>ergebnis signifikant verbessern konnte.",
-      { background: "white", opacity: 0.95 },
+      { background: "black", opacity: 0.90 },
     ];
 
     tooltips[3] = [
       "pic/03 Im Mai.jpg",
-      "Im Mai ist am USB der erste Patient mit Lutetium-177-<br>PSMA erfolgreich behandelt worden. Damit sind wir-<br>das erste Schweizer Spital, das Lu-177-PSMA zur Thera--<br>pie des fortgeschrittenen, metastasierten Prostata-<br>karzinoms im Haus produziert und anwendet.<br>Diese vielversprechende neue Behandlungsmethode<br>gegen den häufigsten bösartigen Tumor bzw. die zweit-<br>häufigste Todesursache beim Mann ist durch den ge-<br>meinsamen Effort der radiopharmazeutischen Chemie<br>und der Nuklearmedizin verfügbar.<br>Die Nuklearmedizin kann zudem das aktive Tumor-<br>volumen automatisiert in der posttherapeutischen Lu-<br>177-PSMA-Bildgebung quantifizieren und das Therapie-<br>ansprechen unmittelbar monitorisieren.",
+      "Im Mai ist am USB der erste Patient mit Lutetium-177-<br>PSMA erfolgreich behandelt worden. Damit sind wir-<br>das erste Schweizer Spital, das Lu-177-PSMA zur Thera-<br>pie des fortgeschrittenen, metastasierten Prostata-<br>karzinoms im Haus produziert und anwendet.<br>Diese vielversprechende neue Behandlungsmethode<br>gegen den häufigsten bösartigen Tumor bzw. die zweit-<br>häufigste Todesursache beim Mann ist durch den ge-<br>meinsamen Effort der radiopharmazeutischen Chemie<br>und der Nuklearmedizin verfügbar.<br>Die Nuklearmedizin kann zudem das aktive Tumor-<br>volumen automatisiert in der posttherapeutischen Lu-<br>177-PSMA-Bildgebung quantifizieren und das Therapie-<br>ansprechen unmittelbar monitorisieren.",
       { background: "white", opacity: 0.95 },
     ];
 
     tooltips[4] = [
       "pic/04 Die Volumendarstellung.gif",
-      "Die Volumendarstellung zeigt, dass atypische Pneumo-<br>nien, wie sie bei COVID-19 erkrankten Patienten auf-<br>treten, mit der CT exzellent detektiert werden können.<br>Wir haben eine Methode entwickelt, mit der die Infil-<br>trate qualitativ beschrieben<br>und vollautomatisiert quantifiziert werden können.<br>Aus den bildbasierten Biomarkern können wertvolle <br/> Informationen über Schweregrad und Verlauf der Er-<br>krankung abgeleitet werden. Unsere Ergebnisse wurden<br>in verschiedenen Fachzeitschriften publiziert.",
+      "Die Volumendarstellung zeigt, dass atypische Pneumo-<br>nien, wie sie bei COVID-19 erkrankten Patienten auf-<br>treten, mit der CT exzellent detektiert werden können.<br>Wir haben eine Methode entwickelt, mit der die Infil-<br>trate qualitativ beschrieben und vollautomatisiert<br>quantifiziert werden können.<br>Aus den bildbasierten Biomarkern können wertvolle <br/>Informationen über Schweregrad und Verlauf der Er-<br>krankung abgeleitet werden. Unsere Ergebnisse wurden<br>in verschiedenen Fachzeitschriften publiziert.",
       { background: "white", opacity: 0.95 },
     ];
 
@@ -97,13 +97,13 @@ var ddimgtooltip = {
 
     tooltips[15] = [
       "pic/15 Prof Melpomeni.jpg",
-      "Prof. Melpomeni Fani, Leiterin der radiopharmazeu-<br>tischen Chemie, leitete die Plenarsitzung 3 und hielt <br/> den ersten Vortrag am europäischen Kongress der Nuklear-<br>medizin (EANM). Die Sitzung war dem Thema<br>«Radiopharmazeutika der nächsten Generation»<br>mit über 1000 Teilnehmern gewidmet.",
+      "Prof. Melpomeni Fani, Leiterin der radiopharmazeutischen Chemie,<br>leitete die Plenarsitzung 3 und hielt den ersten Vortrag am euro-<br>päischen Kongress der Nuklearmedizin (EANM). <br>Die Sitzung war dem Thema «Radiopharmazeutika der nächsten Gene-<br>ration» mit über 1000 Teilnehmern gewidmet.",
       { background: "white", opacity: 0.95 },
     ];
 
     tooltips[16] = [
       "pic/16 Die aktuellen.jpg",
-      "Die aktuellen Ergebnisse der Lumed-Studie konnten<br>in der «Top Rated Oral Presentation»- und der «High-<br>light»-Session am europäischen Kongress der Nuklear-<br>medizin (EANM) vorgestellt werden.<br>Inhalt der Studie ist der Einsatz von 177-Lu-PP-F11N<br>für die rezeptorgesteuerte Therapie und Bildgebung<br>des metastasierten medullären Schilddrüsenkrebses.",
+      "Die aktuellen Ergebnisse der Lumed-Studie konnten in der «Top<br>Rated Oral Presentation»- und der «Highlight»-Session am euro-<br>päischen Kongress der Nuklearmedizin (EANM) vorgestellt <br>werden.<br>Inhalt der Studie ist der Einsatz von 177-Lu-PP-F11N für die<br>rezeptorgesteuerte Therapie und Bildgebung des metastasierten<br>medullären Schilddrüsenkrebses.",
       { background: "white", opacity: 0.95 },
     ];
 
