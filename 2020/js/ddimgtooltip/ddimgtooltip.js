@@ -14,13 +14,13 @@ var ddimgtooltip = {
     tooltips[1] = [
       "pic/01 film.gif",
       "Prämierter Legostein in der nano-SPECT/CT:<br>Der unter Mitwirkung von Guillaume Nicolas, Oberarzt der Nuklear-<br>medizin, entstandene Film zeigt, wie ein neuer mobiler Detektor<br>nuklearmedizinische Bildgebung einsetzen und Radioaktivität intra-<br>operativ visualisieren könnte.<br>Er erhielt den 1. Preis des Bildwettbewerbs des SNF.",
-      { background: "black", opacity: 0.90 },
+      { background: "white", opacity: 0.95 },
     ];
 
     tooltips[2] = [
       "pic/02 Ein neues.jpg",
       "Ein neues Medikament könnte helfen, nach einem<br>Schlaganfall Gehirnzellen zu erhalten.<br>Die unter Beteiligung unserer Neuroradiologen erzielten<br>Forschungsergebnisse wurden in der Zeitschrift<br>«The Lancet» veröffentlicht. In der internationalen<br>Studie konnte gezeigt werden, dass der Wirkstoff Neri-<br>netid bei einer Subgruppe von Patienten das Therapie-<br>ergebnis signifikant verbessern konnte.",
-      { background: "black", opacity: 0.90 },
+      { background: "white", opacity: 0.95 },
     ];
 
     tooltips[3] = [
@@ -49,7 +49,7 @@ var ddimgtooltip = {
 
     tooltips[7] = [
       "pic/07 Die Pandemie.jpg",
-      "Die Pandemie hat den digitalen Wandel weiter<br>beschleunigt und stellt uns auch in der Lehre vor neue<br>Herausforderungen. Deshalb haben wir RapMed, eine<br>neue, auf Crowdsourcing-Technologie basierende,<br>E-Learning-Plattform entwickelt.<br>Crowdsourcing ermöglicht es Studierenden, gemeinsam<br>an der Lösung von Fällen zu arbeiten und reduziert den<br>Aufwand zur Bereitstellung von Lehrinhalten.",
+      "Die Pandemie hat den digitalen Wandel weiter be-<br>schleunigt und stellt uns auch in der Lehre vor neue<br>Herausforderungen. Deshalb haben wir RapMed, eine<br>neue, auf Crowdsourcing-Technologie basierende,<br>E-Learning-Plattform entwickelt.<br>Crowdsourcing ermöglicht es Studierenden, gemeinsam<br>an der Lösung von Fällen zu arbeiten und reduziert den<br>Aufwand zur Bereitstellung von Lehrinhalten.",
       { background: "white", opacity: 0.95 },
     ];
 
