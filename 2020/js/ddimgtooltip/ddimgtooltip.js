@@ -144,6 +144,12 @@ var ddimgtooltip = {
     ];
 
     tooltips[23] = [
+      "pic/23 KVP.jpg",
+      "Wir freuen uns über den KVP-Preis des USB, der uns für<br>die Optimierung der CT-Untersuchungen der Koronar-<br>arterien verliehen wurde.<br>Gemeinsam mit der Kardiologie konnten wir die Abläufe<br>verbessern. Durch die Verlagerung der Patientenvorbe-<br>reitung in einen Nebenraum konnten wir die Warte-<br>zeiten unserer Patienten von 6 auf max. 2 Wochen redu-<br>zieren, können die CT-Kapazitäten besser nutzen und <br>mehr Patienten untersuchen.",
+      { background: "white", opacity: 0.95 },
+    ];
+
+    tooltips[24] = [
       "pic/Rätsel Christbaumkugeln.jpg",
       "Christbaumkugeln oder Blüten einer Passionsblume?<br>Unser Weihnachtsrätsel bezaubert auch in der MRT<br>durch seine pentagonal-ausgewogene Struktur.<br>(Profan mag interessieren, dass es unter Verwendung<br>einer 64-Kanal-Kopf/Hals-Spule mittels T1-gewichteter<br>TIRM- und T2-gewichteter 3D-SPACE-Sequenz im 3T-<br>Magnetom Prisma entstand.)<br>Die ersten drei Personen, die uns schreiben<br>(sekretariat.krn@usb.ch), was aufgenommen wurde, er-<br>halten eine kleine Aufmerksamkeit.",
       { background: "white", opacity: 0.95 },
