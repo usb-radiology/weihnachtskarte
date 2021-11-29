@@ -12,7 +12,7 @@ var ddimgtooltip = {
     //For CSS object, follow the syntax: {property1:"cssvalue1", property2:"cssvalue2", etc}
 
     tooltips[1] = [
-      "pic/Test.jpg",
+      "pic/01_Dr. Francesco Santini.jpg",
       "Roya Afshari, Doktorandin der radiologischen Physik, und ihre<br>wissenschaftlichen Kollegen wurden am Kongres der International<br>Society for Magnetic Resonance in Medicine (ISMRM) mit einem<br>Magna-Cum-Laude-Preis für die Arbeit zur qMT-Bildgebung <br>(quantitativer Magnetisierungstransfer) des gesamten Hirns <br>in weniger als 5 Minuten geehrt. <br>Diese eröffnet hervorragende Aussichten für Prognose und<br>Diagnose neurologischer Erkrankungen.",
       { background: "white", opacity: 0.95 },
     ];
@@ -24,7 +24,7 @@ var ddimgtooltip = {
     ];
 
     tooltips[3] = [
-      "pic/",
+      "pic/03_Anfang Oktober.jpg",
       "Blublu",
       { background: "white", opacity: 0.95 },
     ];
@@ -36,13 +36,13 @@ var ddimgtooltip = {
     ];
 
     tooltips[5] = [
-      "pic/",
+      "pic/05_Die Nuklearmedizin.jpg",
       "Text5",
       { background: "white", opacity: 0.95 },
     ];
 
     tooltips[6] = [
-      "pic/",
+      "pic/06_PD Peter Sporns.jpg",
       "Text6",
       { background: "white", opacity: 0.95 },
     ];
@@ -54,43 +54,43 @@ var ddimgtooltip = {
     ];
 
     tooltips[8] = [
-      "pic/",
+      "pic/08_Die European Association .jpg",
       "Text8", 
       { background: "white", opacity: 0.95 },
     ];
 
     tooltips[9] = [
-      "pic/",
+      "pic/09_Die 2019 eingeführte.jpg",
       "Text9",
       { background: "white", opacity: 0.95 },
     ];
 
     tooltips[10] = [
-      "pic/",
+      "pic/10_Das Team um.jpg",
       "Text10",
       { background: "white", opacity: 0.95 },
     ];
 
     tooltips[11] = [
-      "pic/",
+      "pic/11_Für jährlich.jpg",
       "Text11",
       { background: "white", opacity: 0.95 },
     ];
 
     tooltips[12] = [
-      "pic/",
+      "pic/12_Roya Afshari.jpg",
       "Text12",
       { background: "white", opacity: 0.95 },
     ];
 
     tooltips[13] = [
-      "pic/",
+      "pic/13_Erfolgreiche GMP.jpg",
       "Text13",
       { background: "white", opacity: 0.95 },
     ];
 
     tooltips[14] = [
-      "pic/",
+      "pic/14_Der Preis für.jpg",
       "Text14",
       { background: "white", opacity: 0.95 },
     ];
@@ -102,13 +102,13 @@ var ddimgtooltip = {
     ];
 
     tooltips[16] = [
-      "pic/",
+      "pic/16_Der Kongress der.jpg",
       "Text16",
       { background: "white", opacity: 0.95 },
     ];
 
     tooltips[17] = [
-      "pic/",
+      "pic/17_Als eine der ersten.jpg",
       "Text17",
       { background: "white", opacity: 0.95 },
     ];
@@ -120,14 +120,38 @@ var ddimgtooltip = {
     ];
 
     tooltips[19] = [
-      "pic/",
+      "pic/19_Wir erweitern.jpg",
       "Text19",
       { background: "white", opacity: 0.95 },
     ];
 
     tooltips[20] = [
-      "pic/",
+      "pic/20_Alle fünf.jpg",
       "Text20",
+      { background: "white", opacity: 0.95 },
+    ];
+
+    tooltips[21] = [
+      "pic/21_Das in Radiology.jpeg",
+      "Text21",
+      { background: "white", opacity: 0.95 },
+    ];
+
+    tooltips[22] = [
+      "pic/22_Das 3D Print Lab.jpg",
+      "Text22",
+      { background: "white", opacity: 0.95 },
+    ];
+
+    tooltips[23] = [
+      "pic/",
+      "Text23",
+      { background: "white", opacity: 0.95 },
+    ];
+
+    tooltips[24] = [
+      "pic/",
+      "Text24",
       { background: "white", opacity: 0.95 },
     ];
 
