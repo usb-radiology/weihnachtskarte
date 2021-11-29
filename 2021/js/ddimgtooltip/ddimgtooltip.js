@@ -25,7 +25,7 @@ var ddimgtooltip = {
 
     tooltips[3] = [
       "pic/",
-      "Text3",
+      "Blublu",
       { background: "white", opacity: 0.95 },
     ];
 
