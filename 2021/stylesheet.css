@@ -37,7 +37,7 @@ and (min-device-height : 800px)  {
 }
 
 }
-/* #msg-box {
+#msg-box {
   position: fixed;
   left: 50%;
   bottom: -1%;
@@ -45,7 +45,7 @@ and (min-device-height : 800px)  {
   margin: 0 auto;
   text-align: center;
   font-size: 10%;
-} */
+}
 
 /* div.a {
   font-family: NotoSansTC;
