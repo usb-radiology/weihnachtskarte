@@ -1,14 +1,22 @@
 body {
   background-color: #ffffff;
   /* position: fixed;  */
-  overflow-x: hidden;
+  overflow-x: auto;
   overflow-y: scroll;
   width: 100%;
 }
 
-@media screen 
+@media screen and (max-width: 800px) {
+  body {
+    background-color: lavender;
+  }
+}
+
+
+
+/* @media screen 
 and (min-device-width : 1800px) 
-and (min-device-height : 800px)  {
+and (min-device-height : 800px)  { */
 
 * {
   font-family: "Georgia";
@@ -36,16 +44,12 @@ and (min-device-height : 800px)  {
   width: auto;
 }
 
-}
-#msg-box {
-  position: fixed;
-  left: 50%;
-  bottom: -1%;
-  transform: translate(-50%, -50%);
-  margin: 0 auto;
-  text-align: center;
-  font-size: 10%;
-}
+/* div.c {
+  font-family: Unlock;
+  color: green;
+  line-height: 200%;
+} */
+
 
 /* div.a {
   font-family: NotoSansTC;
@@ -59,11 +63,15 @@ div.b {
   line-height: 80%;
 }
 
-div.c {
-  font-family: Unlock;
-  color: green;
-  line-height: 200%;
-}
+#msg-box {
+    position: fixed;
+    left: 50%;
+    bottom: -1%;
+    transform: translate(-50%, -50%);
+    margin: 0 auto;
+    text-align: center;
+    font-size: 10%;
+  }
 
 div.d {
   font-family: ACaslonPro;
