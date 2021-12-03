@@ -6,17 +6,14 @@ body {
   width: 100%;
 }
 
-@media screen and (max-width: 800px) {
+
+
+
+
+@media screen {
   body {
-    background-color: lavender;
+    width: 100%;
   }
-}
-
-
-
-/* @media screen 
-and (min-device-width : 1800px) 
-and (min-device-height : 800px)  { */
 
 * {
   font-family: "Georgia";
@@ -42,6 +39,7 @@ and (min-device-height : 800px)  { */
   margin-right: auto;
   height: auto;
   width: auto;
+}
 }
 
 /* div.c {
