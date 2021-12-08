@@ -17,15 +17,15 @@ var ddimgtooltip = {
 
     tooltips[2] = [ "images/02_Vosshenrich.jpg",
       "Für seine Arbeit zur Auswirkung der Ermüdung von Radiologinnen<br>und Radiologen aufgrund zunehmender Arbeitsbelastung<br>hat Dr. Jan Vosshenrich, Assistenzarzt der Radiologie, den Young<br>Investigator Award der Schweizerischen Gesellschaft für Radiologie<br>(SGR-SSR) erhalten.<br>Die Arbeit, die auch Empfehlungen zur Erhaltung der diagnostischen<br>Genauigkeit umfasst, wurde in Radiology publiziert und zeitnah<br>von der Radiological Society of North America (RSNA) rezipiert."
-      ,{ background: "white", opacity: 0.98, font:"12px Georgia", color: "#0e7613" }]
+      ,{ background: "white", opacity: 0.98, font:"12px Georgia !important", color: "#0e7613" }]
 
     tooltips[3] = [ "images/03_Anfang Oktober.jpg",
       "Anfang Oktober konnte die Nuklearmedizin das zweite PET/CT (Posi-<br>tronen-Emissions-Tomografie/Computertomografie)-Gerät in Betrieb<br>nehmen.<br>Damit wurde die zeitnahe Verfügbarkeit von PET/CT-Untersuchungen<br>deutlich verbessert."
-      ,{ background: "white", opacity: 0.98, font:"12px Georgia", color: "#0e7613" }]
+      ,{ background: "white", opacity: 0.98, font:"12px Georgia !important", color: "#0e7613" }]
 
     tooltips[4] = [ "images/04_IRZech.jpg",
       "Prof. Christoph Zech, Leiter der interventionellen Radiologie,<br>ist für 2021–23 als Mitglied im Executive Committee der<br>European Society of Gastrointestinal and Abdominal Radiology<br>(ESGAR) bestätigt worden.<br>Er übernimmt neu das Amt des Education Committee Chairs."
-      ,{ background: "white", opacity: 0.98, font:"12px Georgia", color: "#0e7613" }]
+      ,{ background: "white", opacity: 0.98, font:"12px Georgia !important", color: "#0e7613" }]
 
     tooltips[5] = [ "images/05_Die Nuklearmedizin.jpg",
       "Die Nuklearmedizin hat als Hauptantragsteller kompetitive Projekt-<br>fördermittel von der Universität Basel (Dr. Federico Caobelli),<br>der regionalen Krebsliga beider Basel (Dr. Alin Chirindel) und vom<br>Schweizerischen Nationalfonds (SNF) (Prof. Damian Wild) von<br>rund CHF 1’000’000 erhalten."
