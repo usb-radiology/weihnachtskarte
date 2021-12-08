@@ -3,13 +3,14 @@
 -webkit-box-shadow: 3px 3px 5px #818181;
 -moz-box-shadow: 3px 3px 5px #818181;
 */
+/* DAMIT AM AFANG KEINE DO ISCH */
 display:none;
+/* Damits in dr Nöchi vo dr Mus uftaucht */
 position:absolute;
-border:0px solid black;
-background:black;
-color: black;
-z-index:2000;
+/* De macht es chlises wisses Rändli umd Box.. Loh, das isch guet */
 padding: 4px;
+/* Damits au bi chliine screens no dr Text so umbricht wie d Seline das wott */
+width: max-content;
 }
 
 img {
