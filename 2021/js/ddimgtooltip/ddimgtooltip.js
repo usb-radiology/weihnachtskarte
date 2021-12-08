@@ -13,7 +13,7 @@ var ddimgtooltip = {
 
     tooltips[1] = [ "images/01_Dr. Francesco Santini.jpg",
       "Dr. Francesco Santini, wissenschaftlicher Mitarbeiter der radio-<br>logischen Physik, wurde Vizepräsident der Reproducible Research<br>Study Group der International Society for Magnetic Resonance in<br>Medicine (ISMRM) und Co-Vorsitzender des Organisationskomitees<br>für den Workshop MRI Together der European Society for Magnetic<br>Resonance in Medicine and Biology (ESMRMB)."
-      ,{ background: "white", opacity: 0.98, font:"12px Georgia", color: "#0e7613"} ]
+      ,{ background: "white", opacity: 0.98, font:"12px Georgia !important", color: "#0e7613"} ]
 
     tooltips[2] = [ "images/02_Vosshenrich.jpg",
       "Für seine Arbeit zur Auswirkung der Ermüdung von Radiologinnen<br>und Radiologen aufgrund zunehmender Arbeitsbelastung<br>hat Dr. Jan Vosshenrich, Assistenzarzt der Radiologie, den Young<br>Investigator Award der Schweizerischen Gesellschaft für Radiologie<br>(SGR-SSR) erhalten.<br>Die Arbeit, die auch Empfehlungen zur Erhaltung der diagnostischen<br>Genauigkeit umfasst, wurde in Radiology publiziert und zeitnah<br>von der Radiological Society of North America (RSNA) rezipiert."
