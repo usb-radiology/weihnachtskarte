@@ -49,7 +49,7 @@ var ddimgtooltip = {
 
     tooltips[10] = [ "images/10_Das Team um.jpg",
       "Das Team um Dr. Orso Pusterla, wissenschaftlicher Mitarbeiter der<br>radiologischen Physik, wurde am Kongress der European Society for<br>Magnetic Resonance in Medicine and Biology (ESMRMB) mit einem<br>Magna-Cum-Laude-Preis für den besten Abstract (für die besten 1%)<br>ausgezeichnet.<br>Er hat eine neue, von einem neuronalen Netzwerk gesteuerte<br>Methode zur 3D-Quantifizierung der Lungenventilation anhand von<br>0,55 T-MRT-Aufnahmen bei freier Atmung vorgestellt. "
-      ,,{ background: "white", opacity: 0.98 }]
+      ,{ background: "white", opacity: 0.98 }]
 
     tooltips[11] = [ "images/11_Für jährlich.jpg",
       "Für jährlich rund 6000 CT-Untersuchungen des Thorax hat unser<br>Forschungsteam einen Open-Source-Algorithmus entwickelt,<br>der automatisch Infiltrate und Pleuraergüsse quantifiziert und charakterisiert.<br>Die Ergebnisse sind direkt im PACS (Bildarchivierungs- und Kommuni-<br>kationssystem der Radiologie) als Lung-Report verfügbar."
