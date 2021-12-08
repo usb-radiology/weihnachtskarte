@@ -212,13 +212,21 @@ var ddimgtooltip = {
         var tipsuffix = parseInt(RegExp.$1); //get d as integer
         var tipid = (this._tipid = ddimgtooltip.tipprefix + tipsuffix); //construct this tip's ID value and remember it
         var $tooltip = ddimgtooltip.createtip($, tipid, tiparray[tipsuffix]);
+        $target.mousedown(function (e) {
+          var $tooltip = $("#" + this._tipid);
+          ddimgtooltip.showbox($, $tooltip, e);
+        });
+        $target.mouseup(function (e) {
+          var $tooltip = $("#" + this._tipid);
+          ddimgtooltip.showbox($, $tooltip, e);
+        });
         $target.mouseenter(function (e) {
           var $tooltip = $("#" + this._tipid);
           ddimgtooltip.showbox($, $tooltip, e);
         });
         $target.mouseleave(function (e) {
           var $tooltip = $("#" + this._tipid);
-          ddimgtooltip.hidebox($, $tooltip);
+          ddimgtooltip.hidebox($, $tooltip, e);
         });
         $target.mousemove(function (e) {
           var $tooltip = $("#" + this._tipid);
@@ -226,7 +234,17 @@ var ddimgtooltip = {
         });
         if ($tooltip) {
           //add mouseenter to this tooltip (only if event hasn't already been added)
+          // $tooltip.on(function() {
+          //   // Only one tooltip should ever be open at a time
+          //   dimgtooltip.not($, $(this)).hidebox($, $(this));
+          // });
           $tooltip.mouseenter(function () {
+            ddimgtooltip.hidebox($, $(this));
+          });
+          $tooltip.mousedown(function () {
+            ddimgtooltip.hidebox($, $(this));
+          });
+          $tooltip.mouseup(function () {
             ddimgtooltip.hidebox($, $(this));
           });
         }

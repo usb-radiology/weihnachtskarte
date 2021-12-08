@@ -6,15 +6,6 @@ body {
   width: 100%;
 }
 
-
-
-
-
-@media screen {
-  body {
-    width: 100%;
-  }
-
 * {
   font-family: "Georgia";
   font-size: 12px;
@@ -39,7 +30,6 @@ body {
   margin-right: auto;
   height: auto;
   width: auto;
-}
 }
 
 /* div.c {
