@@ -6,9 +6,15 @@ body {
   width: 100%;
 }
 
+@font-face {
+  font-family: 'Georgia';
+  src: url(https://fonts.gstatic.com/l/font?kit=-zkl91Ksy8U47Wnsfmm8wQ&skey=ca45512e77838097&v=v11) format('woff2');
+  font-weight: normal;
+}
+
 * {
-  font-family: "Georgia", serif;
-  font-size: 12px;
+  font-family: 'Georgia', serif;
+  font-size: 14px;
   color: #0e7613;
   font-weight: normal;
   line-height: 1.3;
