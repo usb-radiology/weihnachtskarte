@@ -1,13 +1,13 @@
 body {
   background-color: #ffffff;
   /* position: fixed;  */
-  overflow-x: auto;
-  overflow-y: scroll;
+  /* overflow-x: scroll;
+  overflow-y: scroll; */
   width: 100%;
 }
 
 * {
-  font-family: "Georgia";
+  font-family: "Georgia", serif;
   font-size: 12px;
   color: #0e7613;
   font-weight: normal;
@@ -22,46 +22,3 @@ body {
   height: auto;
   width: auto;
 }
-
-/* .bg {
-  /* Full height */
-  /* height: 100%; */
-  /* Center and scale the image nicely */
-  /* background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
-} */
-
-/* div.c {
-  font-family: Unlock;
-  color: green;
-  line-height: 200%;
-}
-
-div.a {
-  font-family: NotoSansTC;
-  color: blue;
-  line-height: 0.6;
-}
-
-div.b {
-  font-family: Roboto;
-  color: red;
-  line-height: 80%;
-}
-
-#msg-box {
-    position: fixed;
-    left: 50%;
-    bottom: -1%;
-    transform: translate(-50%, -50%);
-    margin: 0 auto;
-    text-align: center;
-    font-size: 10%;
-  }
-
-div.d {
-  font-family: ACaslonPro;
-  color: yellow;
-  line-height: 300%;
-} */

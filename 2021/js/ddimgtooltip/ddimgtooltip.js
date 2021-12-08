@@ -14,7 +14,7 @@ var ddimgtooltip = {
     tooltips[1] = [
       "images/01_Dr. Francesco Santini.jpg",
       "Dr. Francesco Santini, wissenschaftlicher Mitarbeiter der radio-<br>logischen Physik, wurde Vizepräsident der Reproducible Research<br>Study Group der International Society for Magnetic Resonance in<br>Medicine (ISMRM) und Co-Vorsitzender des Organisationskomitees<br>für den Workshop MRI Together der European Society for Magnetic<br>Resonance in Medicine and Biology (ESMRMB).",
-      { background: "white", opacity: 0.98 },
+      { background: "white", opacity: 0.98},
     ];
 
     tooltips[2] = [
@@ -233,11 +233,6 @@ var ddimgtooltip = {
           ddimgtooltip.positiontooltip($, $tooltip, e);
         });
         if ($tooltip) {
-          //add mouseenter to this tooltip (only if event hasn't already been added)
-          // $tooltip.on(function() {
-          //   // Only one tooltip should ever be open at a time
-          //   dimgtooltip.not($, $(this)).hidebox($, $(this));
-          // });
           $tooltip.mouseenter(function () {
             ddimgtooltip.hidebox($, $(this));
           });
