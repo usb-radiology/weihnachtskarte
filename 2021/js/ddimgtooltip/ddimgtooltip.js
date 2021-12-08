@@ -25,7 +25,7 @@ var ddimgtooltip = {
 
     tooltips[3] = [
       "images/03_Anfang Oktober.jpg",
-      "Anfang Oktober konnte die Nuklearmedizin das 2. PET/CT (Posi-<br>tronen-Emissions-Tomografie/Computertomografie)-Gerät in Betrieb<br>nehmen.<br>Damit wurde die zeitnahe Verfügbarkeit von PET/CT-Untersuchungen<br>deutlich verbessert.",
+      "Anfang Oktober konnte die Nuklearmedizin das zweite PET/CT (Posi-<br>tronen-Emissions-Tomografie/Computertomografie)-Gerät in Betrieb<br>nehmen.<br>Damit wurde die zeitnahe Verfügbarkeit von PET/CT-Untersuchungen<br>deutlich verbessert.",
       { background: "white", opacity: 0.98 },
     ];
 
@@ -133,7 +133,7 @@ var ddimgtooltip = {
 
     tooltips[21] = [
       "images/21_Das in Radiology.jpeg",
-      "Das in Radiology publizierte Bild zur Arbeit «Radiologist Mouse Move-<br>ments at a PACS Workstation» unserer Assistenzärzte Dr. Jan Voss-<br>henrich und Dr. Hanns-Christian Breit wurde als einer von drei<br>Finalisten für den Top Images in Radiology Award ausgewählt.<br>Für die Arbeit zum Workload von Radiologen wurden die Maus-<br>bewegungen eines Assistenzarztes auf Bildschirmen des Bildarchivie-<br>rungs- und Kommunikationssystems während einer 8-Stunden-Schicht<br>aufgezeichnet. Sie summierten auf 2,2 km und 10’778 Tasten-<br>anschläge (23 Anschläge pro Minute).",
+      "Das in Radiology publizierte Bild zur Arbeit «Radiologist Mouse Move-<br>ments at a PACS Workstation» unserer Assistenzärzte Dr. Jan Voss-<br>henrich und Dr. Hanns-Christian Breit wurde als einer von drei<br>Finalisten für den Top Images in Radiology Award ausgewählt.<br>Für die Arbeit zum Workload von Radiologen wurden die Maus-<br>bewegungen eines Assistenzarztes auf Bildschirmen des Bildarchivie-<br>rungs- und Kommunikationssystems während einer 8-Stunden-Schicht<br>aufgezeichnet. Sie summierten auf 2,2 km und 10’778 Tastenanschläge<br>(23 Anschläge pro Minute).",
       { background: "white", opacity: 0.98 },
     ];
 
