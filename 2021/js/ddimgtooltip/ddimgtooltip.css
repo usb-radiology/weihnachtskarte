@@ -3,19 +3,15 @@
 -webkit-box-shadow: 3px 3px 5px #818181;
 -moz-box-shadow: 3px 3px 5px #818181;
 */
-/* DAMIT AM AFANG KEINE DO ISCH */
 display:none;
-/* Damits in dr Nöchi vo dr Mus uftaucht */
 position:absolute;
-/* De macht es chlises wisses Rändli umd Box.. Loh, das isch guet */
 padding: 4px;
-/* Damits au bi chliine screens no dr Text so umbricht wie d Seline das wott */
 width: max-content;
 }
   
 * {
     font-family: 'Georgia', serif;
-    font-size: 14px;
+    font-size: 12px;
     color: #0e7613;
     font-weight: normal;
     line-height: 1.3;
