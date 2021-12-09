@@ -115,19 +115,25 @@ var ddimgtooltip = {
   createtip: function ($, tipid, tipinfo) {
     if ($("#" + tipid).length == 0) {
       //if this tooltip doesn't exist yet
+      var text = tipinfo[1] || "";
+      var cssStyles = tipinfo[2] || {};
+
+      if (window.screen.width <= 576) {
+        text = text.replaceAll("<br>", "");
+        cssStyles.maxWidth = "400px";
+      }
+
       return $('<div id="' + tipid + '" class="ddimgtooltip" />')
         .html(
           '<div style="text-align:center; margin-top:20px"><img src="' +
             tipinfo[0] +
             '" /></div>' +
-            (tipinfo[1]
-              ? '<div style="text-align:left; margin-left:5px; margin-right:5px;\
+            '<div style="text-align:left; margin-left:5px; margin-right:5px;\
 				margin-top:30px">' +
-                tipinfo[1] +
+                text +
                 "</div>"
-              : "")
         )
-        .css(tipinfo[2] || {})
+        .css(cssStyles)
         .appendTo(document.body);
     }
     return null;
