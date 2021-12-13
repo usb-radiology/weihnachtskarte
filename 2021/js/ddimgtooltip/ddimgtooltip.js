@@ -118,10 +118,10 @@ var ddimgtooltip = {
       var text = tipinfo[1] || "";
       var cssStyles = tipinfo[2] || {};
 
-      if (window.screen.width <= 576) {
-        text = text.replaceAll("<br>", "");
-        cssStyles.maxWidth = "400px";
-      }
+      // if (window.screen.width <= 576) {
+      //   text = text.replaceAll("<br>", "");
+      //   cssStyles.maxWidth = "400px";
+      // }
 
       return $('<div id="' + tipid + '" class="ddimgtooltip" />')
         .html(
