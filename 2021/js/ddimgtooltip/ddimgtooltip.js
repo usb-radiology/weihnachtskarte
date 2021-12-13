@@ -119,7 +119,8 @@ var ddimgtooltip = {
       var cssStyles = tipinfo[2] || {};
 
       if (window && window.screen && (window.screen.width <= 576)) {
-        text = text.replaceAll("<br>", "");
+        // text = text.replaceAll("<br>", "");
+        text = text.split("<br>").join("");
         cssStyles.maxWidth = "400px";
       }
 
